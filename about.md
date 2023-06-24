@@ -5,11 +5,17 @@ permalink: /about/
 ---
 
 (she/her/hers)
+
 Assistant Professor
+
 Department of Chemistry and Biochemistry
+
 California Polytechnic State University, San Luis Obispo
+
 Office: Baker Center – Building 180, Room 404
+
 Phone: (805)756-1672
+
 Email: [hamachi@calpoly.edu](mailto:hamachi@calpoly.edu)
 
 ### More Information
@@ -19,5 +25,7 @@ Leslie was born and raised in Mountain View, CA. She obtained her BS in chemistr
 Outside of the lab, Leslie is fascinated by the intersection of science and art. She taught chemistry as an adjunct professor at the [Fashion Institute of Technology](https://www.fitnyc.edu/) in the spring of 2018.
 
 CV
+
 [Google Scholar](https://scholar.google.com/citations?user=6BvUnCsAAAAJ&hl=en)
+
 [Twitter](https://twitter.com/leslie_hamachi)
