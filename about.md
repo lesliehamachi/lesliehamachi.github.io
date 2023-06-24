@@ -4,6 +4,8 @@ title: Leslie Hamachi, Ph.D.
 permalink: /about/
 ---
 
+![Leslie Hamachi](Leslie Hamachi.jpg)
+
 (she/her/hers)
 
 Assistant Professor
