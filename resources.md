@@ -4,4 +4,22 @@ title: Resources
 permalink: /resources/
 ---
 
-Include information about current and past group members here. 
+# For Research
+- First item
+- Second item
+- Third item
+  
+# General
+- First item
+- Second item
+- Third item
+
+# Conference Travel
+- First item
+- Second item
+- Third item
+  
+# Scholarships
+- First item
+- Second item
+- Third item
