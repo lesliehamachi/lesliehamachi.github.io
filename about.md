@@ -4,7 +4,7 @@ title: Leslie Hamachi, Ph.D.
 permalink: /about/
 ---
 
-![Leslie Hamachi](Leslie_Hamachi.jpg)
+![Leslie Hamachi](https://github.com/lesliehamachi/lesliehamachi.github.io/blob/master/images/Leslie_Hamachi.jpg)
 
 (she/her/hers)
 
