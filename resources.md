@@ -7,23 +7,23 @@ permalink: /resources/
 ## For Research
 - Solvent Miscibility Table
 - NMR Chemical Shifts of Common Laboratory Solvents
-- SciFinder – A searchable database of the chemical literature to find research papers.
-- Reaxys – A searchable database used to look up syntheses of molecules.
-- Not Voodoo – Synthetic chemistry laboratory tips and techniques
-- MolSSI Python Workshops – Learn Python for computational chemistry and data processing
+- [SciFinder](http://scifinder.cas.org/scifinder/) – A searchable database of the chemical literature to find research papers.
+- [Reaxys](https://www.reaxys.com/#/institution) – A searchable database used to look up syntheses of molecules.
+- [Not Voodoo](http://chem.chem.rochester.edu/~nvd/index.php) – Synthetic chemistry laboratory tips and techniques
+- [MolSSI Python Workshops](https://education.molssi.org/python_scripting_cms/) – Learn Python for computational chemistry and data processing
   
 ## General
 - How to Approach a Faculty Member – Tips for contacting faculty members about doing research
-- Undergrad in the Lab – Blog on tips, tricks, and strategies to get the most out of your undergraduate research experience
-- How to Design an Award Winning Conference Poster – Design suggestions to help you effectively communicate about your research project
+- [Undergrad in the Lab](https://undergradinthelab.com/node) – Blog on tips, tricks, and strategies to get the most out of your undergraduate research experience
+- [How to Design an Award Winning Conference Poster](https://blogs.lse.ac.uk/impactofsocialsciences/2018/05/11/how-to-design-an-award-winning-conference-poster/) – Design suggestions to help you effectively communicate about your research project
 - How to Write a Conference Abstract
 
 ## Conference Travel
-- Undergraduate Student Travel Award – Conference travel support for undergraduate students to attend national ACS meetings
-- Graduate Conference Award – Conference travel support for PCS MS Students at Cal Poly
+- [Undergraduate Student Travel Award](https://www.lospadresacs.org/meetings/) – Conference travel support for undergraduate students to attend national ACS meetings
+- [Graduate Conference Award](https://grad.calpoly.edu/resources/financial-opportunities/grad-conference-award.html) – Conference travel support for PCS MS Students at Cal Poly
   
 ## Scholarships
-- Elmer Carvey Scholarship – $1500 from the Southern California Chapter of the AVS for an undergraduate student majoring in physics, chemistry, or materials engineering. (Planned careers in biology/medicine generally not eligible) Applications historically due 7/1.
-- GGSCT Scholarship – scholarship from the Golden Gate Society for Coatings Technology (GGSCT) for current college students or high school students about to attend college who are members of the Golden Gate Society for Coatings Technology. Applications historically due 9/15.
-- LASCT Scholarship – scholarship from the Los Angeles Society for Coatings Technology (LASCT) for an undergraduate or masters student majoring in physical science, engineering, or mathematics. Preference is given to students specializing in fields related to coatings technology. Applications historically due 2/28.
-- Powder Coating Institute Scholarship – scholarship from the Powder Coating Institute (PCI). Applications historically due 4/24.
+- [Elmer Carvey Scholarship](https://www.sccavs.org/CarveyScholarshipApplication.pdf) – $1500 from the Southern California Chapter of the AVS for an undergraduate student majoring in physics, chemistry, or materials engineering. (Planned careers in biology/medicine generally not eligible) Applications historically due 7/1.
+- [GGSCT Scholarship](https://www.ggsct.com/scholarships) – scholarship from the Golden Gate Society for Coatings Technology (GGSCT) for current college students or high school students about to attend college who are members of the Golden Gate Society for Coatings Technology. Applications historically due 9/15.
+- [LASCT Scholarship](https://lasct.org/education/) – scholarship from the Los Angeles Society for Coatings Technology (LASCT) for an undergraduate or masters student majoring in physical science, engineering, or mathematics. Preference is given to students specializing in fields related to coatings technology. Applications historically due 2/28.
+- [Powder Coating Institute Scholarship](https://www.powdercoating.org/page/ScholarshipApp) – scholarship from the Powder Coating Institute (PCI). Applications historically due 4/24.
