@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-permalink: /pubs/
+permalink: /publications/
 ---
 
 ## At Cal Poly
