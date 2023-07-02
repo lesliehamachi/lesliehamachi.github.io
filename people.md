@@ -37,7 +37,6 @@ permalink: /people/
   </tr>
 </table>
 <br>
-<br>
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">Kyla Carlson</th>
@@ -162,26 +161,25 @@ permalink: /people/
   </tr>
   <tr style="vertical-align:top; font-size: 10px; text-align: center"> 
     <td>
-      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Brendan Posson" title="Brendan Posson"><br>MS Polymers and Coatings Science (2021)<br><b>Current Position:</b> Kelly Moore.    
+      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Brendan Posson" title="Brendan Posson"><br><br>MS Polymers and Coatings Science (2021)<br><b>Current Position:</b> Kelly Moore.    
     </td>
     <td>
-      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Amanda Tsai" title="Amanda Tsai"><br>BS Materials Engineering, MS Polymers and Coatings Science (2022)<br><b>Current Position:</b> W.L. Gore & Associates
+      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Amanda Tsai" title="Amanda Tsai"><br><br>BS Materials Engineering, MS Polymers and Coatings Science (2022)<br><b>Current Position:</b> W.L. Gore & Associates
     </td>
     <td>
-      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Kathryn Lee" title="Kathryn Lee"><br>MS Polymers and Coatings Science (2022)<br><b>Current Position:</b> Apple
+      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Kathryn Lee" title="Kathryn Lee"><br><br>MS Polymers and Coatings Science (2022)<br><b>Current Position:</b> Apple
     </td>
     <td>
-      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Alison Chew" title="Alison Chew"><br>BS Materials Engineering, MS Polymers and Coatings Science (2023)
+      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Alison Chew" title="Alison Chew"><br><br>BS Materials Engineering, MS Polymers and Coatings Science (2023)
     </td>
     <td>
-      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Kyle Hoff" title="Kyle Hoff"><br>BS Materials Engineering, MS Polymers and Coatings Science (2023)<br><b>Current Position:</b> Cal Poly
+      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Kyle Hoff" title="Kyle Hoff"><br><br>BS Materials Engineering, MS Polymers and Coatings Science (2023)<br><b>Current Position:</b> Cal Poly
     </td>
     <td>
-      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Isabel Gamez" title="Isabel Gamez"><br>BS Materials Engineering, MS Polymers and Coatings Science (2023)
+      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Isabel Gamez" title="Isabel Gamez"><br><br>BS Materials Engineering, MS Polymers and Coatings Science (2023)
     </td>
   </tr>
 </table>
-<br>
 <br>
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
@@ -194,13 +192,13 @@ permalink: /people/
   </tr>
   <tr style="vertical-align:top; font-size: 10px; text-align: center"> 
     <td>
-      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Julie Hostetter" title="Julie Hostetter"><br>MS Polymers and Coatings Science (2023)<br><b>Current Position:</b> Rustoleum
+      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Julie Hostetter" title="Julie Hostetter"><br>MS Polymers and Coatings Science (2023)<br><br><b>Current Position:</b> Rustoleum
     </td>
     <td>
-      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Addison Wolfson" title="Addison Wolfson"><br>BS Materials Engineering, MS Polymers and Coatings Science (2023)<br><b>Current Position:</b> Behr
+      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Addison Wolfson" title="Addison Wolfson"><br>BS Materials Engineering, MS Polymers and Coatings Science (2023)<br><br><b>Current Position:</b> Behr
     </td>
     <td>
-      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Jachin Clarke" title="Jachin Clarke"><br>BS Materials Engineering, MS Polymers and Coatings Science (expected 2024)
+      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Jachin Clarke" title="Jachin Clarke"><br><br>BS Materials Engineering, MS Polymers and Coatings Science (expected 2024)
     </td>
     <td>
     </td>
