@@ -7,13 +7,13 @@ permalink: /people/
 ## Current Members
 ### Undergraduate Students
 <table>
-  <tr style="font-size: 14px;">
-    <th width="12.5%;" style="font-size: 14px;"><h3>Robert Orta</h3></th>
-    <th width="12.5%;" style="font-size: 12px;"><h3>Kyle Wang</h3></th>
-    <th width="12.5%"><h3>Rebecca Winger</h3></th>
-    <th width="12.5%"><h3>Nathan Wong</h3></th>
-    <th width="12.5%"><h3>Sachi Ottoes</h3></th>
-    <th width="12.5%"><h3>Hayden Ankrum</h3></th>
+  <tr style="font-size: 14px; text-align: center">
+    <th width="12.5%">Robert Orta</th>
+    <th width="12.5%">Kyle Wang</th>
+    <th width="12.5%">Rebecca Winger</th>
+    <th width="12.5%">Nathan Wong</th>
+    <th width="12.5%">Sachi Ottoes</th>
+    <th width="12.5%">Hayden Ankrum</th>
   </tr>
   <tr style="vertical-align:top; font-size: 12px; text-align: center"> 
     <td style="vertical-align:top; font-size: 12px; text-align: center">
