@@ -7,7 +7,7 @@ permalink: /people/
 ## Current Members
 ### Undergraduate Students
 <table>
-  <tr style="font-size: 14px;">
+  <tr>
     <th width="12.5%"><h3>Robert Orta</h3></th>
     <th width="12.5%"><h3>Kyle Wang</h3></th>
     <th width="12.5%"><h3>Rebecca Winger</h3></th>
