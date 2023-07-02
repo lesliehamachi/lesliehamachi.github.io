@@ -5,7 +5,6 @@ permalink: /people/
 ---
 ---
 ## Undergraduate Students
----
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">Robert Orta</th>
@@ -66,10 +65,9 @@ permalink: /people/
     </td>
   </tr>
 </table>
+---
 
----
 ## Masters Students
----
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">Estela Osorio-Garcia</th>
@@ -98,7 +96,6 @@ permalink: /people/
 
 ---
 ## High School Students
----
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">Brian Tinkle</th>
@@ -124,32 +121,33 @@ permalink: /people/
     </td>
   </tr>
 </table>
-
+<br>
 ---
 ---
 
 ## Lab Alumni
 ---
 ### Undergraduate Students
----
+<b>Daisy Kamp</b><br>BS Materials Engineering (2022)<br><b>Current Position:</b> PhD Student, UC Irvine
+<b>Hannah Martin</b><br>BS Materials Engineering (2022)<br><b>Current Position:</b> PhD Student, Colorado School of Mines
+<b>André Lagron</b><br>BS Chemistry (2022)
+
 <b>Dean Kim</b><br>BS Biochemistry, Minor in Meat Science (2023)
 <b>Donna Tran</b><br>BS Biochemistry (2023)
 <b>Eric Casey</b><br>BS Materials Engineering (2023)
-<b>Jeffrey Johnson</b><br>BS Biochemistry (2026)
-<b>Daisy Kamp</b><br>BS Materials Engineering (2022)<br><b>Current Position:</b> PhD Student, UC Irvine
-<b>Hannah Martin</b><br>BS Materials Engineering (2022)<br><b>Current Position:</b> PhD Student, Colorado School of Mines
 <b>Chris Murray</b><br>BS Materials Engineering (2023)
-<b>Ethan Nogle</b><br>BS Chemistry (expected 2024)
-<b>André Lagron</b><br>BS Chemistry (2022)
 <b>Manuel Huizar</b><br>BS Chemistry (2023)
 <b>Nathalie Silva</b><br>BS Materials Engineering (2023)
+<b>Chanh Lam</b><br>BS Mechanical Engineering (expected 2023)
+
+<b>Ethan Nogle</b><br>BS Chemistry (expected 2024)
 <b>Brandon Ngo</b><br>BS Chemistry (expected 2024)
 <b>Alyssa Chew</b><br>BS Biochemistry (expected 2024)
-<b>Chanh Lam</b><br>BS Mechanical Engineering (expected 2023)
+
+<b>Jeffrey Johnson</b><br>BS Biochemistry (2026)
 
 ---
 ### Masters Students
----
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">Brendan Posson</th>
