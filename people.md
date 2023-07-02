@@ -38,7 +38,7 @@ permalink: /people/
 </table>
 
 <table>
-  <tr>
+  <tr style="font-size: 14px;">
     <th width="12.5%"><h3>Kyla Carlson</h3></th>
     <th width="12.5%"><h3>Zoe Jackson Delos Angeles</h3></th>
     <th width="12.5%"><h3>Alexis Mojica</h3></th>
@@ -69,7 +69,7 @@ permalink: /people/
 
 ### Masters Students
 <table>
-  <tr>
+  <tr style="font-size: 14px;">
     <th width="12.5%"><h3>Estela Osorio-Garcia</h3></th>
     <th width="12.5%"><h3></h3></th>
     <th width="12.5%"><h3></h3></th>
@@ -96,7 +96,7 @@ permalink: /people/
 
 ### High School Students
 <table>
-  <tr>
+  <tr style="font-size: 14px;">
     <th width="12.5%"><h3>Brian Tinkle</h3></th>
     <th width="12.5%"><h3></h3></th>
     <th width="12.5%"><h3></h3></th>
@@ -140,7 +140,7 @@ permalink: /people/
 
 ### Masters Students
 <table>
-  <tr>
+  <tr style="font-size: 14px;">
     <th width="12.5%"><h3>Brendan Posson</h3></th>
     <th width="12.5%"><h3>Amanda Tsai</h3></th>
     <th width="12.5%"><h3>Kathryn Lee</h3></th>
@@ -171,7 +171,7 @@ permalink: /people/
 </table>
 
 <table>
-  <tr>
+  <tr style="font-size: 14px;">
     <th width="12.5%"><h3>Julie Hostetter</h3></th>
     <th width="12.5%"><h3>Addison Wolfson</h3></th>
     <th width="12.5%"><h3>Jachin Clarke</h3></th>
