@@ -22,13 +22,13 @@ permalink: /people/
       <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Kyle Wang" title="Kyle Wang"><br>BS Materials Engineering (expected 2024)
     </td>
     <td>
-      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Rebecca Winger" title="Rebecca Winger"><br>BS Materials Engineering (expected 2024)
+      <img src="https://lesliehamachi.github.io/images/Rebecca_Winger.png" alt="Rebecca Winger" title="Rebecca Winger"><br>BS Materials Engineering (expected 2024)
     </td>
     <td>
       <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Nathan Wong" title="Nathan Wong"><br>BS Materials Engineering (expected 2024)
     </td>
     <td>
-      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Sachi Ottoes" title="Sachi Ottoes"><br>BS Chemistry (expected 2024)
+      <img src="https://lesliehamachi.github.io/images/Sachi_Ottoes.png" alt="Sachi Ottoes" title="Sachi Ottoes"><br>BS Chemistry (expected 2024)
     </td>
     <td>
       <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Hayden Ankrum" title="Hayden Ankrum"><br>BS Biochemistry (expected 2025)
@@ -50,7 +50,7 @@ permalink: /people/
       <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Kyla Carlson" title="Kyla Carlson"><br>BS Materials Engineering (expected 2025)
     </td>
     <td>
-      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Zoe Jackson Delos Angeles" title="Zoe Jackson Delos Angeles"><br>BS Materials Engineering (expected 2025)
+      <img src="https://lesliehamachi.github.io/images/Zoe_Jackson_Delos_Angeles.png" alt="Zoe Jackson Delos Angeles" title="Zoe Jackson Delos Angeles"><br>BS Materials Engineering (expected 2025)
     </td>
     <td>
       <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Alexis Mojica" title="Alexis Mojica"><br>BS Chemistry (expected 2025)
@@ -122,8 +122,7 @@ permalink: /people/
   </tr>
 </table>
 <br>
----
----
+<br>
 
 ## Lab Alumni
 ---
