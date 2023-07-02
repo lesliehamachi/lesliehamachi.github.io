@@ -35,7 +35,8 @@ permalink: /people/
     </td>
   </tr>
 </table>
-
+<br>
+<br>
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">Kyla Carlson</th>
@@ -147,7 +148,7 @@ permalink: /people/
     <th width="12.5%">Kyle Hoff</th>
     <th width="12.5%">Isabel Gamez</th>
   </tr>
-  <tr style="vertical-align:top; font-size: 12px; text-align: center"> 
+  <tr style="vertical-align:top; font-size: 10px; text-align: center"> 
     <td>
       <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Brendan Posson" title="Brendan Posson"><br>MS Polymers and Coatings Science (2021)<br><b>Current Position:</b> Kelly Moore.    
     </td>
@@ -168,7 +169,8 @@ permalink: /people/
     </td>
   </tr>
 </table>
-
+<br>
+<br>
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">Julie Hostetter</th>
@@ -178,7 +180,7 @@ permalink: /people/
     <th width="12.5%"></th>
     <th width="12.5%"></th>
   </tr>
-  <tr style="vertical-align:top; font-size: 12px; text-align: center"> 
+  <tr style="vertical-align:top; font-size: 10px; text-align: center"> 
     <td>
       <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Julie Hostetter" title="Julie Hostetter"><br>MS Polymers and Coatings Science (2023)<br><b>Current Position:</b> Rustoleum
     </td>
