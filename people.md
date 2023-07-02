@@ -3,8 +3,9 @@ layout: page
 title: Group Members
 permalink: /people/
 ---
-
+---
 ## Undergraduate Students
+---
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">Robert Orta</th>
@@ -67,7 +68,9 @@ permalink: /people/
   </tr>
 </table>
 
+---
 ## Masters Students
+---
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">Estela Osorio-Garcia</th>
@@ -94,7 +97,9 @@ permalink: /people/
   </tr>
 </table>
 
+---
 ## High School Students
+---
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">Brian Tinkle</th>
@@ -121,8 +126,13 @@ permalink: /people/
   </tr>
 </table>
 
+---
+---
+
 ## Lab Alumni
+---
 ### Undergraduate Students
+---
 <b>Dean Kim</b><br>BS Biochemistry, Minor in Meat Science (2023)
 <b>Donna Tran</b><br>BS Biochemistry (2023)
 <b>Eric Casey</b><br>BS Materials Engineering (2023)
@@ -138,7 +148,9 @@ permalink: /people/
 <b>Alyssa Chew</b><br>BS Biochemistry (expected 2024)
 <b>Chanh Lam</b><br>BS Mechanical Engineering (expected 2023)
 
+---
 ### Masters Students
+---
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">Brendan Posson</th>
