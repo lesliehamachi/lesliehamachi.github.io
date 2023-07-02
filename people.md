@@ -5,3 +5,174 @@ permalink: /people/
 ---
 
 Include information about current and past group members here. 
+
+## Current Members
+### Undergraduate Students
+<table>
+  <tr>
+    <th width="12.5%"><h3>Estela Osorio-Garcia</h3></th>
+    <th width="12.5%"><h3></h3></th>
+    <th width="12.5%"><h3></h3></th>
+    <th width="12.5%"><h3></h3></th>
+    <th width="12.5%"><h3></h3></th>
+    <th width="12.5%"><h3></h3></th>
+  </tr>
+  <tr style="vertical-align:top"> 
+    <td style="font-size: 10px;">
+      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Estela Osorio-Garcia" title="Estela Osorio-Garcia"><br>BS Biochemistry, MS Polymers and Coatings Science (expected 2025)
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+</table>
+
+<b>Kyla Carlson</b><br>BS Materials Engineering (expected 2025)
+<b>Alexis Mojica</b><br>BS Chemistry (expected 2025)
+<b>Hayden Ankrum</b><br>BS Biochemistry (expected 2025)
+<b>Sachi Ottoes</b><br>BS Chemistry (expected 2024)
+<b>Zoe Jackson Delos Angeles</b><br>BS Materials Engineering (expected 2025)
+<b>Rebecca Winger</b><br>BS Materials Engineering (expected 2024)
+<b>Hannah Negri</b><br>BS Chemistry (expected 2025)
+<b>Nathan Wong</b><br>BS Materials Engineering (expected 2024)
+<b>Robert Orta</b><br>BS Materials Engineering (expected 2024)
+<b>Olive Rosplock</b><br>BS Biochemistry (expected 2026)
+<b>Kyle Wang</b><br>BS Materials Engineering (expected 2024)
+
+### Masters Students
+<table>
+  <tr>
+    <th width="12.5%"><h3>Estela Osorio-Garcia</h3></th>
+    <th width="12.5%"><h3></h3></th>
+    <th width="12.5%"><h3></h3></th>
+    <th width="12.5%"><h3></h3></th>
+    <th width="12.5%"><h3></h3></th>
+    <th width="12.5%"><h3></h3></th>
+  </tr>
+  <tr style="vertical-align:top"> 
+    <td>
+      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Estela Osorio-Garcia" title="Estela Osorio-Garcia"><br>BS Biochemistry, MS Polymers and Coatings Science (expected 2025)
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+</table>
+
+### High School Students
+<table>
+  <tr>
+    <th width="12.5%"><h3>Brian Tinkle</h3></th>
+    <th width="12.5%"><h3></h3></th>
+    <th width="12.5%"><h3></h3></th>
+    <th width="12.5%"><h3></h3></th>
+    <th width="12.5%"><h3></h3></th>
+    <th width="12.5%"><h3></h3></th>
+  </tr>
+  <tr style="vertical-align:top"> 
+    <td>
+      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Brian Tinkle" title="Brian Tinkle"><br>High School Student (expected 2024)
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+</table>
+
+## Lab Alumni
+### Undergraduate Students
+<b>Dean Kim</b><br>BS Biochemistry, Minor in Meat Science (2023)
+<b>Donna Tran</b><br>BS Biochemistry (2023)
+<b>Eric Casey</b><br>BS Materials Engineering (2023)
+<b>Jeffrey Johnson</b><br>BS Biochemistry (2026)
+<b>Daisy Kamp</b><br>BS Materials Engineering (2022)<br><b>Current Position:</b> PhD Student, UC Irvine
+<b>Hannah Martin</b><br>BS Materials Engineering (2022)<br><b>Current Position:</b> PhD Student, Colorado School of Mines
+<b>Chris Murray</b><br>BS Materials Engineering (2023)
+<b>Ethan Nogle</b><br>BS Chemistry (expected 2024)
+<b>André Lagron</b><br>BS Chemistry (2022)
+<b>Manuel Huizar</b><br>BS Chemistry (2023)
+<b>Nathalie Silva</b><br>BS Materials Engineering (2023)
+<b>Brandon Ngo</b><br>BS Chemistry (expected 2024)
+<b>Alyssa Chew</b><br>BS Biochemistry (expected 2024)
+<b>Chanh Lam</b><br>BS Mechanical Engineering (expected 2023)
+
+### Masters Students
+<table>
+  <tr>
+    <th width="12.5%"><h3>Brendan Posson</h3></th>
+    <th width="12.5%"><h3>Amanda Tsai</h3></th>
+    <th width="12.5%"><h3>Kathryn Lee</h3></th>
+    <th width="12.5%"><h3>Alison Chew</h3></th>
+    <th width="12.5%"><h3>Kyle Hoff</h3></th>
+    <th width="12.5%"><h3>Isabel Gamez</h3></th>
+  </tr>
+  <tr style="vertical-align:top"> 
+    <td>
+      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Brendan Posson" title="Brendan Posson"><br>MS Polymers and Coatings Science (2021)<br><b>Current Position:</b> Kelly Moore.    
+    </td>
+    <td>
+      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Amanda Tsai" title="Amanda Tsai"><br>BS Materials Engineering, MS Polymers and Coatings Science (2022)<br><b>Current Position:</b> W.L. Gore & Associates
+    </td>
+    <td>
+      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Kathryn Lee" title="Kathryn Lee"><br>MS Polymers and Coatings Science (2022)<br><b>Current Position:</b> Apple
+    </td>
+    <td>
+      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Alison Chew" title="Alison Chew"><br>BS Materials Engineering, MS Polymers and Coatings Science (2023)
+    </td>
+    <td>
+      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Kyle Hoff" title="Kyle Hoff"><br>BS Materials Engineering, MS Polymers and Coatings Science (2023)<br><b>Current Position:</b> Cal Poly
+    </td>
+    <td>
+      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Isabel Gamez" title="Isabel Gamez"><br>BS Materials Engineering, MS Polymers and Coatings Science (2023)
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th width="12.5%"><h3>Julie Hostetter</h3></th>
+    <th width="12.5%"><h3>Addison Wolfson</h3></th>
+    <th width="12.5%"><h3>Jachin Clarke</h3></th>
+    <th width="12.5%"><h3></h3></th>
+    <th width="12.5%"><h3></h3></th>
+    <th width="12.5%"><h3></h3></th>
+  </tr>
+  <tr style="vertical-align:top"> 
+    <td>
+      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Julie Hostetter" title="Julie Hostetter"><br>MS Polymers and Coatings Science (2023)<br><b>Current Position:</b> Rustoleum
+    </td>
+    <td>
+      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Addison Wolfson" title="Addison Wolfson"><br>BS Materials Engineering, MS Polymers and Coatings Science (2023)<br><b>Current Position:</b> Behr
+    </td>
+    <td>
+      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Jachin Clarke" title="Jachin Clarke"><br>BS Materials Engineering, MS Polymers and Coatings Science (expected 2024)
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+</table>
