@@ -16,13 +16,13 @@ permalink: /people/
     <th width="12.5%"><h3>Hayden Ankrum</h3></th>
   </tr>
   <tr> 
-    <td style="vertical-align:top"; style="font-size: 10px;">
+    <td style="vertical-align:top; font-size: 10px">
       <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Robert Orta" title="Robert Orta"><br>BS Materials Engineering (expected 2024)
     </td>
-    <td style="vertical-align:top"; style="font-size: 10px;">
+    <td style="vertical-align:top; font-size: 10px">
       <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Kyle Wang" title="Kyle Wang"><br>BS Materials Engineering (expected 2024)
     </td>
-    <td style="vertical-align:top"; style="font-size: 10px;">
+    <td style="vertical-align:top; font-size: 10px">
       <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Rebecca Winger" title="Rebecca Winger"><br>BS Materials Engineering (expected 2024)
     </td>
     <td>
