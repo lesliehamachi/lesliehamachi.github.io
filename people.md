@@ -4,47 +4,68 @@ title: Group Members
 permalink: /people/
 ---
 
-Include information about current and past group members here. 
-
 ## Current Members
 ### Undergraduate Students
 <table>
   <tr>
-    <th width="12.5%"><h3>Estela Osorio-Garcia</h3></th>
-    <th width="12.5%"><h3></h3></th>
-    <th width="12.5%"><h3></h3></th>
-    <th width="12.5%"><h3></h3></th>
-    <th width="12.5%"><h3></h3></th>
+    <th width="12.5%"><h3>Robert Orta</h3></th>
+    <th width="12.5%"><h3>Kyle Wang</h3></th>
+    <th width="12.5%"><h3>Rebecca Winger</h3></th>
+    <th width="12.5%"><h3>Nathan Wong</h3></th>
+    <th width="12.5%"><h3>Sachi Ottoes</h3></th>
+    <th width="12.5%"><h3>Hayden Ankrum</h3></th>
+  </tr>
+  <tr style="vertical-align:top"> 
+    <td style="font-size: 10px;">
+      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Robert Orta" title="Robert Orta"><br>BS Materials Engineering (expected 2024)
+    </td>
+    <td>
+      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Kyle Wang" title="Kyle Wang"><br>BS Materials Engineering (expected 2024)
+    </td>
+    <td>
+      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Rebecca Winger" title="Rebecca Winger"><br>BS Materials Engineering (expected 2024)
+    </td>
+    <td>
+      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Nathan Wong" title="Nathan Wong"><br>BS Materials Engineering (expected 2024)
+    </td>
+    <td>
+      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Sachi Ottoes" title="Sachi Ottoes"><br>BS Chemistry (expected 2024)
+    </td>
+    <td>
+      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Hayden Ankrum" title="Hayden Ankrum"><br>BS Biochemistry (expected 2025)
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th width="12.5%"><h3>Kyla Carlson</h3></th>
+    <th width="12.5%"><h3>Zoe Jackson Delos Angeles</h3></th>
+    <th width="12.5%"><h3>Alexis Mojica</h3></th>
+    <th width="12.5%"><h3>Hannah Negri</h3></th>
+    <th width="12.5%"><h3>Olive Rosplock</h3></th>
     <th width="12.5%"><h3></h3></th>
   </tr>
   <tr style="vertical-align:top"> 
     <td style="font-size: 10px;">
-      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Estela Osorio-Garcia" title="Estela Osorio-Garcia"><br>BS Biochemistry, MS Polymers and Coatings Science (expected 2025)
+      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Kyla Carlson" title="Kyla Carlson"><br>BS Materials Engineering (expected 2025)
     </td>
     <td>
+      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Zoe Jackson Delos Angeles" title="Zoe Jackson Delos Angeles"><br>BS Materials Engineering (expected 2025)
     </td>
     <td>
+      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Alexis Mojica" title="Alexis Mojica"><br>BS Chemistry (expected 2025)
     </td>
     <td>
+      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Hannah Negri" title="Hannah Negri"><br>BS Chemistry (expected 2025)
     </td>
     <td>
+      <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Olive Rosplock" title="Olive Rosplock"><br>BS Biochemistry (expected 2026)
     </td>
     <td>
     </td>
   </tr>
 </table>
-
-<b>Kyla Carlson</b><br>BS Materials Engineering (expected 2025)
-<b>Alexis Mojica</b><br>BS Chemistry (expected 2025)
-<b>Hayden Ankrum</b><br>BS Biochemistry (expected 2025)
-<b>Sachi Ottoes</b><br>BS Chemistry (expected 2024)
-<b>Zoe Jackson Delos Angeles</b><br>BS Materials Engineering (expected 2025)
-<b>Rebecca Winger</b><br>BS Materials Engineering (expected 2024)
-<b>Hannah Negri</b><br>BS Chemistry (expected 2025)
-<b>Nathan Wong</b><br>BS Materials Engineering (expected 2024)
-<b>Robert Orta</b><br>BS Materials Engineering (expected 2024)
-<b>Olive Rosplock</b><br>BS Biochemistry (expected 2026)
-<b>Kyle Wang</b><br>BS Materials Engineering (expected 2024)
 
 ### Masters Students
 <table>
