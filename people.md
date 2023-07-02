@@ -158,19 +158,19 @@ permalink: /people/
   </tr>
   <tr style="vertical-align:top; font-size: 10px; text-align: center"> 
     <td>
-      <img src="https://lesliehamachi.github.io/images/Brendan_Posson.png" alt="Brendan Posson" title="Brendan Posson"><br>MS Polymers and Coatings Science (2021)<br><br><b>Current Position:</b> Kelly Moore.    
+      <img src="https://lesliehamachi.github.io/images/Brendan_Posson.png" alt="Brendan Posson" title="Brendan Posson"><br>MS Polymers and Coatings Science (2021)<br><br><b>Current Position:</b><br>Kelly Moore
     </td>
     <td>
-      <img src="https://lesliehamachi.github.io/images/Amanda_Tsai.png" alt="Amanda Tsai" title="Amanda Tsai"><br>BS Materials Engineering, MS Polymers and Coatings Science (2022)<br><br><b>Current Position:</b> W.L. Gore & Associates
+      <img src="https://lesliehamachi.github.io/images/Amanda_Tsai.png" alt="Amanda Tsai" title="Amanda Tsai"><br>BS Materials Engineering, MS Polymers and Coatings Science (2022)<br><br><b>Current Position:</b><br>W.L. Gore & Associates
     </td>
     <td>
-      <img src="https://lesliehamachi.github.io/images/Kathryn_Lee.png" alt="Kathryn Lee" title="Kathryn Lee"><br>MS Polymers and Coatings Science (2022)<br><br><b>Current Position:</b> Apple
+      <img src="https://lesliehamachi.github.io/images/Kathryn_Lee.png" alt="Kathryn Lee" title="Kathryn Lee"><br>MS Polymers and Coatings Science (2022)<br><br><b>Current Position:</b><br>Apple
     </td>
     <td>
       <img src="https://lesliehamachi.github.io/images/Alison_Chew.png" alt="Alison Chew" title="Alison Chew"><br>BS Materials Engineering, MS Polymers and Coatings Science (2023)
     </td>
     <td>
-      <img src="https://lesliehamachi.github.io/images/Kyle_Hoff.png" alt="Kyle Hoff" title="Kyle Hoff"><br>BS Materials Engineering, MS Polymers and Coatings Science (2023)<br><br><b>Current Position:</b> Cal Poly
+      <img src="https://lesliehamachi.github.io/images/Kyle_Hoff.png" alt="Kyle Hoff" title="Kyle Hoff"><br>BS Materials Engineering, MS Polymers and Coatings Science (2023)<br><br><b>Current Position:</b><br>Cal Poly
     </td>
     <td>
       <img src="https://lesliehamachi.github.io/images/Isabel_Gamez.jpg" alt="Isabel Gamez" title="Isabel Gamez"><br>BS Materials Engineering, MS Polymers and Coatings Science (2023)
@@ -189,10 +189,10 @@ permalink: /people/
   </tr>
   <tr style="vertical-align:top; font-size: 10px; text-align: center"> 
     <td>
-      <img src="https://lesliehamachi.github.io/images/Julie_Hostetter.png" alt="Julie Hostetter" title="Julie Hostetter"><br>MS Polymers and Coatings Science (2023)<br><br><b>Current Position:</b> Rustoleum
+      <img src="https://lesliehamachi.github.io/images/Julie_Hostetter.png" alt="Julie Hostetter" title="Julie Hostetter"><br>MS Polymers and Coatings Science (2023)<br><br><b>Current Position:</b><br>Rustoleum
     </td>
     <td>
-      <img src="https://lesliehamachi.github.io/images/Addison_Wolfson.png" alt="Addison Wolfson" title="Addison Wolfson"><br>BS Materials Engineering, MS Polymers and Coatings Science (2023)<br><br><b>Current Position:</b> Behr
+      <img src="https://lesliehamachi.github.io/images/Addison_Wolfson.png" alt="Addison Wolfson" title="Addison Wolfson"><br>BS Materials Engineering, MS Polymers and Coatings Science (2023)<br><br><b>Current Position:</b><br>Behr
     </td>
     <td>
       <img src="https://lesliehamachi.github.io/images/Jachin_Clarke.jpg" alt="Jachin Clarke" title="Jachin Clarke"><br>BS Materials Engineering, MS Polymers and Coatings Science (expected 2024)
