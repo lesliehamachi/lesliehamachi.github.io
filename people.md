@@ -4,10 +4,9 @@ title: Group Members
 permalink: /people/
 ---
 
-## Current Members
-### Undergraduate Students
+## Undergraduate Students
 <table>
-  <tr style="font-size: 14px; text-align: center">
+  <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">Robert Orta</th>
     <th width="12.5%">Kyle Wang</th>
     <th width="12.5%">Rebecca Winger</th>
@@ -16,13 +15,13 @@ permalink: /people/
     <th width="12.5%">Hayden Ankrum</th>
   </tr>
   <tr style="vertical-align:top; font-size: 12px; text-align: center"> 
-    <td style="vertical-align:top; font-size: 12px; text-align: center">
+    <td>
       <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Robert Orta" title="Robert Orta"><br>BS Materials Engineering (expected 2024)
     </td>
-    <td style="vertical-align:top; font-size: 10px">
+    <td>
       <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Kyle Wang" title="Kyle Wang"><br>BS Materials Engineering (expected 2024)
     </td>
-    <td style="vertical-align:top; font-size: 10px">
+    <td>
       <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Rebecca Winger" title="Rebecca Winger"><br>BS Materials Engineering (expected 2024)
     </td>
     <td>
@@ -38,16 +37,16 @@ permalink: /people/
 </table>
 
 <table>
-  <tr style="font-size: 14px;">
-    <th width="12.5%"><h3>Kyla Carlson</h3></th>
-    <th width="12.5%"><h3>Zoe Jackson Delos Angeles</h3></th>
-    <th width="12.5%"><h3>Alexis Mojica</h3></th>
-    <th width="12.5%"><h3>Hannah Negri</h3></th>
-    <th width="12.5%"><h3>Olive Rosplock</h3></th>
-    <th width="12.5%"><h3></h3></th>
+  <tr style="font-size: 14px; text-align: center; font-weight: bold">
+    <th width="12.5%">Kyla Carlson</th>
+    <th width="12.5%">Zoe Jackson Delos Angeles</th>
+    <th width="12.5%">Alexis Mojica</th>
+    <th width="12.5%">Hannah Negri</th>
+    <th width="12.5%">Olive Rosplock</th>
+    <th width="12.5%"></th>
   </tr>
-  <tr style="vertical-align:top"> 
-    <td style="font-size: 10px;">
+  <tr style="vertical-align:top; font-size: 12px; text-align: center"> 
+    <td>
       <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Kyla Carlson" title="Kyla Carlson"><br>BS Materials Engineering (expected 2025)
     </td>
     <td>
@@ -67,17 +66,17 @@ permalink: /people/
   </tr>
 </table>
 
-### Masters Students
+## Masters Students
 <table>
-  <tr style="font-size: 14px;">
-    <th width="12.5%"><h3>Estela Osorio-Garcia</h3></th>
-    <th width="12.5%"><h3></h3></th>
-    <th width="12.5%"><h3></h3></th>
-    <th width="12.5%"><h3></h3></th>
-    <th width="12.5%"><h3></h3></th>
-    <th width="12.5%"><h3></h3></th>
+  <tr style="font-size: 14px; text-align: center; font-weight: bold">
+    <th width="12.5%">Estela Osorio-Garcia</th>
+    <th width="12.5%"></th>
+    <th width="12.5%"></th>
+    <th width="12.5%"></th>
+    <th width="12.5%"></th>
+    <th width="12.5%"></th>
   </tr>
-  <tr style="vertical-align:top"> 
+  <tr style="vertical-align:top; font-size: 12px; text-align: center"> 
     <td>
       <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Estela Osorio-Garcia" title="Estela Osorio-Garcia"><br>BS Biochemistry, MS Polymers and Coatings Science (expected 2025)
     </td>
@@ -94,17 +93,17 @@ permalink: /people/
   </tr>
 </table>
 
-### High School Students
+## High School Students
 <table>
-  <tr style="font-size: 14px;">
-    <th width="12.5%"><h3>Brian Tinkle</h3></th>
-    <th width="12.5%"><h3></h3></th>
-    <th width="12.5%"><h3></h3></th>
-    <th width="12.5%"><h3></h3></th>
-    <th width="12.5%"><h3></h3></th>
-    <th width="12.5%"><h3></h3></th>
+  <tr style="font-size: 14px; text-align: center; font-weight: bold">
+    <th width="12.5%">Brian Tinkle</th>
+    <th width="12.5%"></th>
+    <th width="12.5%"></th>
+    <th width="12.5%"></th>
+    <th width="12.5%"></th>
+    <th width="12.5%"></th>
   </tr>
-  <tr style="vertical-align:top"> 
+  <tr style="vertical-align:top; font-size: 12px; text-align: center"> 
     <td>
       <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Brian Tinkle" title="Brian Tinkle"><br>High School Student (expected 2024)
     </td>
@@ -140,15 +139,15 @@ permalink: /people/
 
 ### Masters Students
 <table>
-  <tr style="font-size: 14px;">
-    <th width="12.5%"><h3>Brendan Posson</h3></th>
-    <th width="12.5%"><h3>Amanda Tsai</h3></th>
-    <th width="12.5%"><h3>Kathryn Lee</h3></th>
-    <th width="12.5%"><h3>Alison Chew</h3></th>
-    <th width="12.5%"><h3>Kyle Hoff</h3></th>
-    <th width="12.5%"><h3>Isabel Gamez</h3></th>
+  <tr style="font-size: 14px; text-align: center; font-weight: bold">
+    <th width="12.5%">Brendan Posson</th>
+    <th width="12.5%">Amanda Tsai</th>
+    <th width="12.5%">Kathryn Lee</th>
+    <th width="12.5%">Alison Chew</th>
+    <th width="12.5%">Kyle Hoff</th>
+    <th width="12.5%">Isabel Gamez</th>
   </tr>
-  <tr style="vertical-align:top"> 
+  <tr style="vertical-align:top; font-size: 12px; text-align: center"> 
     <td>
       <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Brendan Posson" title="Brendan Posson"><br>MS Polymers and Coatings Science (2021)<br><b>Current Position:</b> Kelly Moore.    
     </td>
@@ -171,15 +170,15 @@ permalink: /people/
 </table>
 
 <table>
-  <tr style="font-size: 14px;">
-    <th width="12.5%"><h3>Julie Hostetter</h3></th>
-    <th width="12.5%"><h3>Addison Wolfson</h3></th>
-    <th width="12.5%"><h3>Jachin Clarke</h3></th>
-    <th width="12.5%"><h3></h3></th>
-    <th width="12.5%"><h3></h3></th>
-    <th width="12.5%"><h3></h3></th>
+  <tr style="font-size: 14px; text-align: center; font-weight: bold">
+    <th width="12.5%">Julie Hostetter</th>
+    <th width="12.5%">Addison Wolfson</th>
+    <th width="12.5%">Jachin Clarke</th>
+    <th width="12.5%"></th>
+    <th width="12.5%"></th>
+    <th width="12.5%"></th>
   </tr>
-  <tr style="vertical-align:top"> 
+  <tr style="vertical-align:top; font-size: 12px; text-align: center"> 
     <td>
       <img src="https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg" alt="Julie Hostetter" title="Julie Hostetter"><br>MS Polymers and Coatings Science (2023)<br><b>Current Position:</b> Rustoleum
     </td>
