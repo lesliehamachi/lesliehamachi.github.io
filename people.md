@@ -8,8 +8,8 @@ permalink: /people/
 ### Undergraduate Students
 <table>
   <tr>
-    <th width="12.5%"><h3>Robert Orta</h3></th>
-    <th width="12.5%"><h3>Kyle Wang</h3></th>
+    <th width="12.5%;" style="font-size: 14px;"><h3>Robert Orta</h3></th>
+    <th width="12.5%;" style="font-size: 14px;"><h3>Kyle Wang</h3></th>
     <th width="12.5%"><h3>Rebecca Winger</h3></th>
     <th width="12.5%"><h3>Nathan Wong</h3></th>
     <th width="12.5%"><h3>Sachi Ottoes</h3></th>
