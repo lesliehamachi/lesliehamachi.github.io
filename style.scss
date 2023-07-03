@@ -80,9 +80,15 @@ a {
   }
 }
 
+* {
+  box-sizing: border-box;
+}
+
 .column {
   float: left;
   padding: 10px;
+  position: absolute;
+  bottom: 0;
 }
 
 .left {
@@ -93,11 +99,7 @@ a {
   width: 75%;
 }
 
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
+
 
 ul, ol {
   margin: 15px 0;
