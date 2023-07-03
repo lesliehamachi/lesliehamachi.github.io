@@ -33,6 +33,28 @@ permalink: /publications/
    </li>
 </ol>
 
+<div class="row">
+  <div class="column left">
+    <h2>Column 1</h2>
+    <p>Some text..</p>
+  </div>
+  <div class="column right">
+    <h2>Column 2</h2>
+    <p>Some text..</p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column left">
+    <h2>Column 1</h2>
+    <p>Some text..</p>
+  </div>
+  <div class="column right">
+    <h2>Column 2</h2>
+    <p>Some text..</p>
+  </div>
+</div>
+
 
 # Patents
 1. [Methods of Producing Metal Sulfides, Metal Selenides, and Metal Sulfides/Selenides Having Controlled Architectures Using Kinetic Control](https://patents.google.com/patent/WO2016115416A1/en)
