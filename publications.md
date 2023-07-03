@@ -39,11 +39,5 @@ permalink: /publications/
 
 
 <h2> Patents</h2>
-<div class="row">
-  <div class="column left">
-  </div>
-  <div class="column right">
-    <p style="font-size: 14px; font-weight: bold">1. Methods of Producing Metal Sulfides, Metal Selenides, and Metal Sulfides/Selenides Having Controlled Architectures Using Kinetic Control</p>
-    <a href="https://patents.google.com/patent/WO2016115416A1/en">Hendricks, M. P.; Campos, M. P.; Hamachi, L. S.; Cleveland, G. T.; Jen-La Plante, I.; Owen, J. S. PCT Int. Appl. (2016), WO 2016115416 A1 20160721.</a>
-  </div>
-</div>
+<p style="font-size: 14px; font-weight: bold">1. Methods of Producing Metal Sulfides, Metal Selenides, and Metal Sulfides/Selenides Having Controlled Architectures Using Kinetic Control</p>
+<a href="https://patents.google.com/patent/WO2016115416A1/en">Hendricks, M. P.; Campos, M. P.; Hamachi, L. S.; Cleveland, G. T.; Jen-La Plante, I.; Owen, J. S. PCT Int. Appl. (2016), WO 2016115416 A1 20160721.</a>
