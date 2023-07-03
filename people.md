@@ -127,23 +127,95 @@ permalink: /people/
 ## Lab Alumni
 ---
 ### Undergraduate Students
-<b>Daisy Kamp</b><br>BS Materials Engineering (2022)<br><b>Current Position:</b> PhD Student, UC Irvine
-<b>Hannah Martin</b><br>BS Materials Engineering (2022)<br><b>Current Position:</b> PhD Student, Colorado School of Mines
-<b>André Lagron</b><br>BS Chemistry (2022)
+<table>
+  <tr style="font-size: 14px; text-align: center; font-weight: bold">
+    <th width="12.5%">André Lagron</th>
+    <th width="12.5%">Daisy Kamp</th>
+    <th width="12.5%">Hannah Martin</th>
+    <th width="12.5%">Eric Casey</th>
+    <th width="12.5%">Manuel Huizar</th>
+    <th width="12.5%">Dean Kim</th>
+  </tr>
+  <tr style="vertical-align:top; font-size: 10px; text-align: center"> 
+    <td>
+      <img src="https://lesliehamachi.github.io/images/Andre_Lagron.png" alt="Andre Lagron" title="Andre Lagron"><br>BS Chemistry (2022)<br><br><b>Current Position:</b><br>Friedman and Bruya
+    </td>
+    <td>
+      <img src="https://lesliehamachi.github.io/images/Daisy_Kamp.png" alt="Daisy Kamp" title="Daisy Kamp"><br>BS Materials Engineering (2022)<br><br><b>Current Position:</b><br>PhD Student, UC Irvine
+    </td>
+    <td>
+      <img src="https://lesliehamachi.github.io/images/Hannah_Martin.png" alt="Hannah Martin" title="Hannah Martin"><br>BS Materials Engineering (2022)<br><br><b>Current Position:</b><br>PhD Student, Colorado School of Mines
+    </td>
+    <td>
+      <img src="https://lesliehamachi.github.io/images/Eric_Casey.png" alt="Eric Casey" title="Eric Casey"><br>BS Materials Engineering (2023)
+    </td>
+    <td>
+      <img src="https://lesliehamachi.github.io/images/Manuel_Huizar.jpg" alt="Manuel Huizar" title="Manuel Huizar"><br>BS Chemistry (2023)
+    </td>
+    <td>
+      <img src="https://lesliehamachi.github.io/images/Dean_Kim.png" alt="Dean Kim" title="Dean Kim"><br>BS Biochemistry, Minor in Meat Science (2023)
+    </td>
+  </tr>
+</table>
+<br>
+<table>
+  <tr style="font-size: 14px; text-align: center; font-weight: bold">
+    <th width="12.5%">Chris Murray</th>
+    <th width="12.5%">Nathalie Silva</th>
+    <th width="12.5%">Donna Tran</th>
+    <th width="12.5%">Chanh Lam</th>
+    <th width="12.5%">Brandon Ngo</th>
+    <th width="12.5%">Alyssa Chew</th>
+  </tr>
+  <tr style="vertical-align:top; font-size: 10px; text-align: center"> 
+    <td>
+      <img src="https://lesliehamachi.github.io/images/Chris_Murray.png" alt="Chris Murray" title="Chris Murray"><br>BS Materials Engineering (2023)
+    </td>
+    <td>
+      <img src="https://lesliehamachi.github.io/images/Nathalie_Silva.png" alt="Nathalie Silva" title="Nathalie Silva"><br>BS Materials Engineering (2023)
+    </td>
+    <td>
+      <img src="https://lesliehamachi.github.io/images/Donna_Tran.png" alt="Donna Tran" title="Donna Tran"><br>BS Biochemistry (2023)
+    </td>
+    <td>
+      <img src="https://lesliehamachi.github.io/images/Chanh_Lam.jpg" alt="Chanh Lam" title="Chanh Lam"><br>BS Mechanical Engineering (expected 2023)
+    </td>
+    <td>
+      <img src="https://lesliehamachi.github.io/images/Brandon_Ngo.png" alt="Brandon Ngo" title="Brandon Ngo"><br>BS Chemistry (expected 2024)
+    </td>
+    <td>
+      <img src="https://lesliehamachi.github.io/images/Alyssa_Chew.png" alt="Alyssa Chew" title="Alyssa Chew"><br>BS Biochemistry (expected 2024)
+    </td>
+  </tr>
+</table>
+<br>
+<table>
+  <tr style="font-size: 14px; text-align: center; font-weight: bold">
+    <th width="12.5%">Ethan Nogle</th>
+    <th width="12.5%">Jeffrey Johnson</th>
+    <th width="12.5%"></th>
+    <th width="12.5%"></th>
+    <th width="12.5%"></th>
+    <th width="12.5%"></th>
+  </tr>
+  <tr style="vertical-align:top; font-size: 10px; text-align: center"> 
+    <td>
+      <img src="https://lesliehamachi.github.io/images/Ethan_Nogle.png" alt="Ethan Nogle" title="Ethan Nogle"><br>BS Chemistry (expected 2024)
+    </td>
+    <td>
+      <img src="https://lesliehamachi.github.io/images/Jeffrey_Johnson.png" alt="Jeffrey Johnson" title="Jeffrey Johnson"><br>BS Biochemistry (2026)
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+</table>
 
-<b>Dean Kim</b><br>BS Biochemistry, Minor in Meat Science (2023)
-<b>Donna Tran</b><br>BS Biochemistry (2023)
-<b>Eric Casey</b><br>BS Materials Engineering (2023)
-<b>Chris Murray</b><br>BS Materials Engineering (2023)
-<b>Manuel Huizar</b><br>BS Chemistry (2023)
-<b>Nathalie Silva</b><br>BS Materials Engineering (2023)
-<b>Chanh Lam</b><br>BS Mechanical Engineering (expected 2023)
-
-<b>Ethan Nogle</b><br>BS Chemistry (expected 2024)
-<b>Brandon Ngo</b><br>BS Chemistry (expected 2024)
-<b>Alyssa Chew</b><br>BS Biochemistry (expected 2024)
-
-<b>Jeffrey Johnson</b><br>BS Biochemistry (2026)
 
 ---
 ### Masters Students
