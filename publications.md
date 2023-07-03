@@ -13,7 +13,7 @@ permalink: /publications/
     <th width="75%"></th>
   </tr>
   <tr > 
-    <td style="padding: 100px">
+    <td style="padding: 10px">
       <img src="https://lesliehamachi.github.io/images/Logo.png" alt="Logo" title="Logo" style="vertical-align:top; font-size: 12px; text-align: center"/>
     </td>
     <td>
