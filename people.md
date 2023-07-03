@@ -242,7 +242,7 @@ permalink: /people/
       <img src="https://lesliehamachi.github.io/images/Alison_Chew.png" alt="Alison Chew" title="Alison Chew"><br>BS Materials Engineering, MS Polymers and Coatings Science (2023)
     </td>
     <td>
-      <img src="https://lesliehamachi.github.io/images/Kyle_Hoff.png" alt="Kyle Hoff" title="Kyle Hoff"><br>BS Materials Engineering, MS Polymers and Coatings Science (2023)<br><br><b>Current Position:</b><br>Cal Poly
+      <img src="https://lesliehamachi.github.io/images/Kyle_Hoff.png" alt="Kyle Hoff" title="Kyle Hoff"><br>BS Materials Engineering, MS Polymers and Coatings Science (2023)<br><br><b>Current Position:</b><br>Edwards Lifesciences
     </td>
     <td>
       <img src="https://lesliehamachi.github.io/images/Isabel_Gamez.jpg" alt="Isabel Gamez" title="Isabel Gamez"><br>BS Materials Engineering, MS Polymers and Coatings Science (2023)
