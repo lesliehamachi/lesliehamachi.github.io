@@ -63,11 +63,29 @@ permalink: /publications/
       <img src="https://lesliehamachi.github.io/images/Logo.png" alt="Logo" title="Logo" style="vertical-align:top; font-size: 12px; text-align: center"/>
     </td>
     <td style="padding: 20px">
-     <li><p style="font-size: 16px; font-weight: bold"><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/admt.201700366">Localizing Seizure Activity in the Brain Using Implantable microLEDs with Quantum Dot Fluorescence</a></p></li>
-     <p style="font-size: 14px;">Choi, C.; Colón-Berríos, A. R.; Hamachi, L. S.; Owen, J. S.; Schwartz, T. H.; Ma, H.; Kymissis, I. <em>Adv. Mater. Technol.</em> <b>2018</b>, <em>3</em>, 1700366.</p>
+     <li><p style="font-size: 16px; font-weight: bold"><a href="https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.9b04294">Anthracene Diphosphate Ligands for CdSe Quantum Dots; Molecular Design for Efficient Upconversion</a></p></li>
+     <p style="font-size: 14px;">De Roo, J.; Huang, Z.; Schuster, N. J.; Hamachi, L. S.; Congreve, D. N.; Xu, Z.; Xia, P.; Fishman, D. A.; Lian, T.; Owen, J. S.; Tang, M. L. <em>Chem. Mater.</em> <b>2020</b>, <em>32</em>, 1461-1466.</p>
     </td>
   </tr>
-  
+
+  <tr > 
+    <td style="padding: 10px">
+      <img src="https://lesliehamachi.github.io/images/Logo.png" alt="Logo" title="Logo" style="vertical-align:top; font-size: 12px; text-align: center"/>
+    </td>
+    <td style="padding: 20px">
+     <li><p style="font-size: 16px; font-weight: bold"><a href="https://pubs.rsc.org/en/content/articlehtml/2019/sc/c9sc00989b">Precursor Reaction Kinetics Control Compositional Grading and Size of CdSe1-xSx Nanocrystal Heterostructures</a></p></li>
+     <p style="font-size: 14px;">Hamachi, L. S.; Yang, H.; Jen-La Plante, I.; Saenz, N.; Qian, K.; Campos, M. P.; Cleveland, G. T.; Rreza, I.; Oza, A.; Walravens, W.; Chen, E. M.; Hens, Z.; Crowther, A. C.; Owen, J. S. <em>Chem. Sci.</em> <b>2019</b>, <em>10</em>, 6539-6552.</p>
+    </td>
+  </tr>
+  <tr > 
+    <td style="padding: 10px">
+      <img src="https://lesliehamachi.github.io/images/Logo.png" alt="Logo" title="Logo" style="vertical-align:top; font-size: 12px; text-align: center"/>
+    </td>
+    <td style="padding: 20px">
+     <li><p style="font-size: 16px; font-weight: bold"><a href="https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.9b00971">Design Rules for One-Step Seeded Growth of Nanocrystals: Threading the Needle Between Secondary Nucleation and Ripening</a></p></li>
+     <p style="font-size: 14px;">Yang, H.; Hamachi, L. S.; Rreza, I.; Wang, W.; Chan, E. <em>Chem. Mater.</em> <b>2019</b>, <em>31</em>, 4173-4183.</p>
+    </td>
+  </tr>
   <tr > 
     <td style="padding: 10px">
       <img src="https://lesliehamachi.github.io/images/Logo.png" alt="Logo" title="Logo" style="vertical-align:top; font-size: 12px; text-align: center"/>
