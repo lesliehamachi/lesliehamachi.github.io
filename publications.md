@@ -7,21 +7,17 @@ permalink: /publications/
 ## At Cal Poly
 
 ## Prior to Cal Poly
-<div class="row">
-  <div class="column left" style="background-color:#aaa;">
-    <h2>Column 1</h2>
-    <p>Some text..</p>
-  </div>
-  <div class="column right" style="background-color:#bbb;">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
-  </div>
-</div>
-
 <ol>
-   <li>Kinetic Control Over CdS Nanocrystal Nucleation Using a Library of Thiocarbonates, Thiocarbamates, and Thioureas<br>
-     <img src="https://lesliehamachi.github.io/images/Logo.png" alt="Snow"><br>
-Hamachi, L. S.; Jen-La Plante, I.; Coryell, A. C.; De Roo, J.; Owen, J. S. <a href="https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.7b02861"><em>Chem. Mater.</em> <b>2017</b>, <em>29</em>, 8711-8719.</a>
+   <li>
+     <div class="row">
+      <div class="column left">
+        <img src="https://lesliehamachi.github.io/images/Logo.png" alt="Snow">
+      </div>
+      <div class="column right" style="background-color:#bbb;">
+        <h2>Kinetic Control Over CdS Nanocrystal Nucleation Using a Library of Thiocarbonates, Thiocarbamates, and Thioureas</h2>
+        <p>Hamachi, L. S.; Jen-La Plante, I.; Coryell, A. C.; De Roo, J.; Owen, J. S. <a href="https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.7b02861"><em>Chem. Mater.</em> <b>2017</b>, <em>29</em>, 8711-8719.</a></p>
+      </div>
+    </div>
    </li>
 </ol>
 
