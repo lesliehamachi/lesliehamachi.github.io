@@ -7,13 +7,13 @@ permalink: /publications/
 <h2>At Cal Poly</h2>
 
 <h2>Prior to Cal Poly</h2>
-<table style="padding: 40px">
+<table>
   <tr>
     <th width="25%"></th>
     <th width="75%"></th>
   </tr>
   <tr > 
-    <td>
+    <td style="padding: 100px">
       <img src="https://lesliehamachi.github.io/images/Logo.png" alt="Logo" title="Logo" style="vertical-align:top; font-size: 12px; text-align: center"/>
     </td>
     <td>
