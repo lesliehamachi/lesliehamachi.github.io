@@ -17,7 +17,7 @@ permalink: /publications/
     <td style="padding: 10px">
       <img src="https://lesliehamachi.github.io/images/Logo.png" alt="Logo" title="Logo" style="vertical-align:top; font-size: 12px; text-align: center"/>
     </td>
-    <td style="padding: 10px">
+    <td style="padding: 20px">
      <li><p style="font-size: 16px; font-weight: bold">Kinetic Control Over CdS Nanocrystal Nucleation Using a Library of Thiocarbonates, Thiocarbamates, and Thioureas</p></li>
      <p style="font-size: 14px;">Hamachi, L. S.; Jen-La Plante, I.; Coryell, A. C.; De Roo, J.; Owen, J. S. <a href="https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.7b02861"><em>Chem. Mater.</em> <b>2017</b>, <em>29</em>, 8711-8719.</a></p>
     </td>
