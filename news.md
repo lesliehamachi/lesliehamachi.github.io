@@ -4,18 +4,18 @@ title: News
 permalink: /news/
 ---
 
-
-{% for post in site.posts %}
-
-    <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+<div class="posts">
+    {% for post in site.posts %}
+        <article class="post">
     
-    <div class="date">
-      {{ page.date | date: "%B %e, %Y" }}
-    </div>
+            <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 
-    {{ post.excerpt }}
-    
-    <hr>
-    
-{% endfor %}
+            <div class="entry">
+                {{ post.excerpt }}
+            </div>
+        
+            <hr>
+         </article>
+    {% endfor %}
+</div>
 
