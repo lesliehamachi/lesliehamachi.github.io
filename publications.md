@@ -13,7 +13,7 @@ permalink: /publications/
   </tr>
   <tr > 
     <td style="padding: 10px">
-      <img src="https://lesliehamachi.github.io/images/Logo.png" alt="Logo" title="Logo" style="vertical-align:top; font-size: 12px; text-align: center"/>
+      <img src="https://lesliehamachi.github.io/images/2023_TrendsFoodSci_138_323.png" alt="Table of Contents Graphic for Environmentally Benign Bioderived, Biocompatible, Thermally Stable MOFs Suitable for Food Contact Applications" title="TOC Graphic for Environmentally Benign Bioderived, Biocompatible, Thermally Stable MOFs Suitable for Food Contact Applications" style="vertical-align:top; font-size: 12px; text-align: center"/>
     </td>
     <td style="padding: 20px">
      <li><p style="font-size: 16px; font-weight: bold"><a href="https://www.sciencedirect.com/science/article/pii/S0924224423001966">Environmentally Benign Bioderived, Biocompatible, Thermally Stable MOFs Suitable for Food Contact Applications</a></p></li>
@@ -22,7 +22,7 @@ permalink: /publications/
   </tr>
   <tr > 
     <td style="padding: 10px">
-      <img src="https://lesliehamachi.github.io/images/Logo.png" alt="Logo" title="Logo" style="vertical-align:top; font-size: 12px; text-align: center"/>
+      <img src="https://lesliehamachi.github.io/images/2023_RSCAdv_13_14484.gif" alt="Table of Contents Graphic for COF-300 Synthesis and Colloidal Stabilization with Substituted Benzoic Acids" title="TOC Graphic for COF-300 Synthesis and Colloidal Stabilization with Substituted Benzoic Acids" style="vertical-align:top; font-size: 12px; text-align: center"/>
     </td>
     <td style="padding: 20px">
      <li><p style="font-size: 16px; font-weight: bold"><a href="https://pubs.rsc.org/en/content/articlelanding/2023/ra/d3ra02202a">COF-300 Synthesis and Colloidal Stabilization with Substituted Benzoic Acids</a></p></li>
@@ -32,7 +32,7 @@ permalink: /publications/
   
   <tr > 
     <td style="padding: 10px">
-      <img src="https://lesliehamachi.github.io/images/Logo.png" alt="Logo" title="Logo" style="vertical-align:top; font-size: 12px; text-align: center"/>
+      <img src="https://lesliehamachi.github.io/images/2022_FrontMater_9_915296.png" alt="Table of Contents Graphic for Characterization Techniques to Assess Recyclability in Dynamic Polymer Networks" title="TOC Graphic for Characterization Techniques to Assess Recyclability in Dynamic Polymer Networks" style="vertical-align:top; font-size: 12px; text-align: center"/>
     </td>
     <td style="padding: 20px">
      <li><p style="font-size: 16px; font-weight: bold"><a href="https://www.frontiersin.org/articles/10.3389/fmats.2022.915296/full">Characterization Techniques to Assess Recyclability in Dynamic Polymer Networks</a></p></li>
@@ -42,7 +42,7 @@ permalink: /publications/
   </tr>
   <tr > 
     <td style="padding: 10px">
-      <img src="https://lesliehamachi.github.io/images/Logo.png" alt="Logo" title="Logo" style="vertical-align:top; font-size: 12px; text-align: center"/>
+      <img src="https://lesliehamachi.github.io/images/2021_ACSNanosciAu_1_6.gif" alt="Table of Contents Graphic for The Primarily Undergraduate Nanomaterials Cooperative: A New Model for Supporting Collaborative Research at Small Institutions on a National Scale" title="TOC Graphic for The Primarily Undergraduate Nanomaterials Cooperative: A New Model for Supporting Collaborative Research at Small Institutions on a National Scale" style="vertical-align:top; font-size: 12px; text-align: center"/>
     </td>
     <td style="padding: 20px">
      <li><p style="font-size: 16px; font-weight: bold"><a href="https://pubs.acs.org/doi/10.1021/acsnanoscienceau.1c00020">The Primarily Undergraduate Nanomaterials Cooperative: A New Model for Supporting Collaborative Research at Small Institutions on a National Scale</a></p></li>
@@ -51,7 +51,7 @@ permalink: /publications/
   </tr>
   <tr > 
     <td style="padding: 10px">
-      <img src="https://lesliehamachi.github.io/images/Logo.png" alt="Logo" title="Logo" style="vertical-align:top; font-size: 12px; text-align: center"/>
+      <img src="https://lesliehamachi.github.io/images/2021_Matter_4_2634.png" alt="Table of Contents Graphic for Big Diels: 3D Printing Covalent Adaptable Networks" title="TOC Graphic for Big Diels: 3D Printing Covalent Adaptable Networks" style="vertical-align:top; font-size: 12px; text-align: center"/>
     </td>
     <td style="padding: 20px">
      <li><p style="font-size: 16px; font-weight: bold"><a href="https://www.cell.com/matter/fulltext/S2590-2385(21)00295-2">Big Diels: 3D Printing Covalent Adaptable Networks</a></p></li>
@@ -69,7 +69,7 @@ permalink: /publications/
   </tr>
  <tr > 
     <td style="padding: 10px">
-      <img src="https://lesliehamachi.github.io/images/Logo.png" alt="Logo" title="Logo" style="vertical-align:top; font-size: 12px; text-align: center"/>
+      <img src="https://lesliehamachi.github.io/images/2022_JACS_144_19813.webp" alt="Table of Contents Graphic for Single-Crystalline Imine-Linked Two-Dimensional Covalent Organic Frameworks Separate Benzene and Cyclohexane Efficiently" title="TOC Graphic for Single-Crystalline Imine-Linked Two-Dimensional Covalent Organic Frameworks Separate Benzene and Cyclohexane Efficiently" style="vertical-align:top; font-size: 12px; text-align: center"/>
     </td>
     <td style="padding: 20px">
      <li><p style="font-size: 16px; font-weight: bold"><a href="https://pubs.acs.org/doi/abs/10.1021/jacs.2c07166">Single-Crystalline Imine-Linked Two-Dimensional Covalent Organic Frameworks Separate Benzene and Cyclohexane Efficiently</a></p></li>
@@ -78,7 +78,7 @@ permalink: /publications/
   </tr>
    <tr > 
     <td style="padding: 10px">
-      <img src="https://lesliehamachi.github.io/images/Logo.png" alt="Logo" title="Logo" style="vertical-align:top; font-size: 12px; text-align: center"/>
+      <img src="https://lesliehamachi.github.io/images/2022_ChemRev_122_6322.gif" alt="Table of Contents Graphic for Defining the Macromolecules of Tomorrow through Synergistic Sustainable Polymer Research" title="TOC Graphic for Defining the Macromolecules of Tomorrow through Synergistic Sustainable Polymer Research" style="vertical-align:top; font-size: 12px; text-align: center"/>
     </td>
     <td style="padding: 20px">
      <li><p style="font-size: 16px; font-weight: bold"><a href="https://pubs.acs.org/doi/10.1021/acs.chemrev.1c00173">Defining the Macromolecules of Tomorrow through Synergistic Sustainable Polymer Research</a></p></li>
@@ -88,7 +88,7 @@ permalink: /publications/
 
   <tr > 
     <td style="padding: 10px">
-      <img src="https://lesliehamachi.github.io/images/Logo.png" alt="Logo" title="Logo" style="vertical-align:top; font-size: 12px; text-align: center"/>
+      <img src="https://lesliehamachi.github.io/images/2022_ChemMater_34_706.gif" alt="Table of Contents Graphic for Size Dependent Optical Properties and Structure of ZnS Nanocrystals Prepared from a Library of Thioureas" title="TOC Graphic for Size Dependent Optical Properties and Structure of ZnS Nanocrystals Prepared from a Library of Thioureas" style="vertical-align:top; font-size: 12px; text-align: center"/>
     </td>
     <td style="padding: 20px">
      <li><p style="font-size: 16px; font-weight: bold"><a href="https://pubs.acs.org/doi/pdf/10.1021/acs.chemmater.1c03432">Size Dependent Optical Properties and Structure of ZnS Nanocrystals Prepared from a Library of Thioureas</a></p></li>
@@ -97,7 +97,7 @@ permalink: /publications/
   </tr>
    <tr > 
     <td style="padding: 10px">
-      <img src="https://lesliehamachi.github.io/images/Logo.png" alt="Logo" title="Logo" style="vertical-align:top; font-size: 12px; text-align: center"/>
+      <img src="https://lesliehamachi.github.io/images/2021_ChemSci_12_16014.png" alt="Table of Contents Graphic for Solvothermal Depolymerization and Recrystallization of Imine-Linked Two-Dimensional Covalent Organic Frameworks" title="TOC Graphic for Solvothermal Depolymerization and Recrystallization of Imine-Linked Two-Dimensional Covalent Organic Frameworks" style="vertical-align:top; font-size: 12px; text-align: center"/>
     </td>
     <td style="padding: 20px">
      <li><p style="font-size: 16px; font-weight: bold"><a href="https://pubs.rsc.org/en/content/articlehtml/2021/sc/d1sc03963f">Solvothermal Depolymerization and Recrystallization of Imine-Linked Two-Dimensional Covalent Organic Frameworks</a></p></li>
@@ -107,7 +107,7 @@ permalink: /publications/
   
   <tr > 
     <td style="padding: 10px">
-      <img src="https://lesliehamachi.github.io/images/Logo.png" alt="Logo" title="Logo" style="vertical-align:top; font-size: 12px; text-align: center"/>
+      <img src="https://lesliehamachi.github.io/images/2021_ChemRev_122_442.png" alt="Table of Contents Graphic for Two-dimensional Polymers and Polymerizations" title="TOC Graphic for Two-dimensional Polymers and Polymerizations" style="vertical-align:top; font-size: 12px; text-align: center"/>
     </td>
     <td style="padding: 20px">
      <li><p style="font-size: 16px; font-weight: bold"><a href="https://pubs.acs.org/doi/abs/10.1021/acs.chemrev.0c01184">Two-dimensional Polymers and Polymerizations</a></p></li>
@@ -116,7 +116,7 @@ permalink: /publications/
   </tr>
    <tr > 
     <td style="padding: 10px">
-      <img src="https://lesliehamachi.github.io/images/Logo.png" alt="Logo" title="Logo" style="vertical-align:top; font-size: 12px; text-align: center"/>
+      <img src="https://lesliehamachi.github.io/images/2021_ACSAMI_13_38680.gif" alt="Table of Contents Graphic for Dissociative Carbamate Exchange Anneals 3D Printed Acrylates" title="TOC Graphic for Dissociative Carbamate Exchange Anneals 3D Printed Acrylates" style="vertical-align:top; font-size: 12px; text-align: center"/>
     </td>
     <td style="padding: 20px">
      <li><p style="font-size: 16px; font-weight: bold"><a href="https://pubs.acs.org/doi/10.1021/acsami.1c09373">Dissociative Carbamate Exchange Anneals 3D Printed Acrylates</a></p></li>
@@ -125,7 +125,7 @@ permalink: /publications/
   </tr>
   <tr > 
     <td style="padding: 10px">
-      <img src="https://lesliehamachi.github.io/images/Logo.png" alt="Logo" title="Logo" style="vertical-align:top; font-size: 12px; text-align: center"/>
+      <img src="https://lesliehamachi.github.io/images/2021_ACSAMI_13_12191.gif" alt="Table of Contents Graphic for Performance of Spherical Quantum Well Down Converters in Solid State Lighting" title="TOC Graphic for Performance of Spherical Quantum Well Down Converters in Solid State Lighting" style="vertical-align:top; font-size: 12px; text-align: center"/>
     </td>
     <td style="padding: 20px">
      <li><p style="font-size: 16px; font-weight: bold"><a href="https://pubs.acs.org/doi/abs/10.1021/acsami.0c15161">Performance of Spherical Quantum Well Down Converters in Solid State Lighting</a></p></li>
@@ -134,7 +134,7 @@ permalink: /publications/
   </tr>
    <tr > 
     <td style="padding: 10px">
-      <img src="https://lesliehamachi.github.io/images/Logo.png" alt="Logo" title="Logo" style="vertical-align:top; font-size: 12px; text-align: center"/>
+      <img src="https://lesliehamachi.github.io/images/2020_ACSCentSci_6_921.gif" alt="Table of Contents Graphic for Reprocessing Postconsumer Polyurethane Foam Using Carbamate Exchange Catalysis and Twin-Screw Extrusion" title="TOC Graphic for Reprocessing Postconsumer Polyurethane Foam Using Carbamate Exchange Catalysis and Twin-Screw Extrusion" style="vertical-align:top; font-size: 12px; text-align: center"/>
     </td>
     <td style="padding: 20px">
      <li><p style="font-size: 16px; font-weight: bold"><a href="https://pubs.acs.org/doi/10.1021/acscentsci.0c00083">Reprocessing Postconsumer Polyurethane Foam Using Carbamate Exchange Catalysis and Twin-Screw Extrusion</a></p></li>
@@ -144,7 +144,7 @@ permalink: /publications/
   </tr>
   <tr > 
     <td style="padding: 10px">
-      <img src="https://lesliehamachi.github.io/images/Logo.png" alt="Logo" title="Logo" style="vertical-align:top; font-size: 12px; text-align: center"/>
+      <img src="https://lesliehamachi.github.io/images/2020_ChemMater_32_1461.gif" alt="Table of Contents Graphic for Anthracene Diphosphate Ligands for CdSe Quantum Dots; Molecular Design for Efficient Upconversion" title="TOC Graphic for Anthracene Diphosphate Ligands for CdSe Quantum Dots; Molecular Design for Efficient Upconversion" style="vertical-align:top; font-size: 12px; text-align: center"/>
     </td>
     <td style="padding: 20px">
      <li><p style="font-size: 16px; font-weight: bold"><a href="https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.9b04294">Anthracene Diphosphate Ligands for CdSe Quantum Dots; Molecular Design for Efficient Upconversion</a></p></li>
@@ -153,7 +153,7 @@ permalink: /publications/
   </tr>
   <tr > 
     <td style="padding: 10px">
-      <img src="https://lesliehamachi.github.io/images/Logo.png" alt="Logo" title="Logo" style="vertical-align:top; font-size: 12px; text-align: center"/>
+      <img src="https://lesliehamachi.github.io/images/2019_ChemSci_10_6539.gif" alt="Table of Contents Graphic for Precursor Reaction Kinetics Control Compositional Grading and Size of CdSe1-xSx Nanocrystal Heterostructures" title="TOC Graphic for Precursor Reaction Kinetics Control Compositional Grading and Size of CdSe1-xSx Nanocrystal Heterostructures" style="vertical-align:top; font-size: 12px; text-align: center"/>
     </td>
     <td style="padding: 20px">
      <li><p style="font-size: 16px; font-weight: bold"><a href="https://pubs.rsc.org/en/content/articlehtml/2019/sc/c9sc00989b">Precursor Reaction Kinetics Control Compositional Grading and Size of CdSe1-xSx Nanocrystal Heterostructures</a></p></li>
@@ -162,7 +162,7 @@ permalink: /publications/
   </tr>
   <tr > 
     <td style="padding: 10px">
-      <img src="https://lesliehamachi.github.io/images/Logo.png" alt="Logo" title="Logo" style="vertical-align:top; font-size: 12px; text-align: center"/>
+      <img src="https://lesliehamachi.github.io/images/2019_ChemMater_31_4173.gif" alt="Table of Contents Graphic for Design Rules for One-Step Seeded Growth of Nanocrystals: Threading the Needle Between Secondary Nucleation and Ripening" title="TOC Graphic for Design Rules for One-Step Seeded Growth of Nanocrystals: Threading the Needle Between Secondary Nucleation and Ripening" style="vertical-align:top; font-size: 12px; text-align: center"/>
     </td>
     <td style="padding: 20px">
      <li><p style="font-size: 16px; font-weight: bold"><a href="https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.9b00971">Design Rules for One-Step Seeded Growth of Nanocrystals: Threading the Needle Between Secondary Nucleation and Ripening</a></p></li>
@@ -180,7 +180,7 @@ permalink: /publications/
   </tr>
   <tr > 
     <td style="padding: 10px">
-      <img src="https://lesliehamachi.github.io/images2017_ChemMater_29_8711.gif" alt="Table of Contents Graphic for Kinetic Control Over CdS Nanocrystal Nucleation Using a Library of Thiocarbonates, Thiocarbamates, and Thioureas" title="TOC Graphic for Kinetic Control Over CdS Nanocrystal Nucleation Using a Library of Thiocarbonates, Thiocarbamates, and Thioureas" style="vertical-align:top; font-size: 12px; text-align: center"/>
+      <img src="https://lesliehamachi.github.io/images/2017_ChemMater_29_8711.png" alt="Table of Contents Graphic for Kinetic Control Over CdS Nanocrystal Nucleation Using a Library of Thiocarbonates, Thiocarbamates, and Thioureas" title="TOC Graphic for Kinetic Control Over CdS Nanocrystal Nucleation Using a Library of Thiocarbonates, Thiocarbamates, and Thioureas" style="vertical-align:top; font-size: 12px; text-align: center"/>
     </td>
     <td style="padding: 20px">
      <li><p style="font-size: 16px; font-weight: bold"><a href="https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.7b02861">Kinetic Control Over CdS Nanocrystal Nucleation Using a Library of Thiocarbonates, Thiocarbamates, and Thioureas</a></p></li>
@@ -192,5 +192,5 @@ permalink: /publications/
 
 
 <h2> Patents</h2>
-<p style="font-size: 14px; font-weight: bold">1. Methods of Producing Metal Sulfides, Metal Selenides, and Metal Sulfides/Selenides Having Controlled Architectures Using Kinetic Control</p>
-<a href="https://patents.google.com/patent/WO2016115416A1/en">Hendricks, M. P.; Campos, M. P.; Hamachi, L. S.; Cleveland, G. T.; Jen-La Plante, I.; Owen, J. S. PCT Int. Appl. (2016), WO 2016115416 A1 20160721.</a>
+<p style="font-size: 14px; font-weight: bold"><a href="https://patents.google.com/patent/WO2016115416A1/en">1. Methods of Producing Metal Sulfides, Metal Selenides, and Metal Sulfides/Selenides Having Controlled Architectures Using Kinetic Control</a></p>
+<p style="font-size: 14px;">Hendricks, M. P.; Campos, M. P.; Hamachi, L. S.; Cleveland, G. T.; Jen-La Plante, I.; Owen, J. S. PCT Int. Appl. (2016), WO 2016115416 A1 20160721.</p>
