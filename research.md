@@ -96,6 +96,11 @@ permalink: /research/
     </td>
   </tr>
 </table>
+
+<p><em>For more background information on this topic, you can read these articles from a few prominent research groups in the field. Please note that you may need to be on the campus wireless network in order to access them:</em><br>
+1. <a href="https://pubs.rsc.org/en/content/articlelanding/2016/sc/c5sc02223a#!divAbstract">Vitrimers: Permanent Organic Networks with Glass-like Fluidity</a><br>
+2. <a href="https://pubs.acs.org/doi/10.1021/jacs.9b07922">Adaptable Crosslinks in Polymeric Materials: Resolving the Intersection of Thermoplastics and Thermosets</a>
+
 ---
 
 <h3><a id="covalent_organic_frameworks">Covalent Organic Frameworks</a></h3>
@@ -128,6 +133,11 @@ In the Hamachi Group, we are interested in developing methods to synthesize new 
     </td>
   </tr>
 </table>
+<p><em>For more background information on this topic, you can read these articles from a few prominent research groups in the field. Please note that you may need to be on the campus wireless network in order to access them:</em><br>
+1. <a href="https://pubs.acs.org/doi/abs/10.1021/acscentsci.7b00127">Covalent Organic Frameworks as a Platform for Multidimensional Polymerization</a><br>
+2. <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201904291">Covalent Organic Frameworks: Chemical Approaches to Designer Structures and Built-In Functions</a></p>
+
+
 ---
 <h3><a id="colloidal_nanoparticle_synthesis">Colloidal Nanoparticle Synthesiss</a></h3>
 <table>
@@ -158,3 +168,8 @@ In the Hamachi Group, we are interested in developing methods to synthesize new 
     </td>
   </tr>
 </table>
+<p><em>For more background information on characterizing nanomaterials with X-ray diffraction and nanoparticle crystallization, you can read these articles from prominent research groups in the field. Please note that you may need to be on the campus wireless network in order to access them:</em><br>
+1. <a href="https://pubs.acs.org/doi/10.1021/acsnano.9b05157">Tutorial on Powder X-ray Diffraction for Characterizing Nanoscale Materials</a><br>
+2. <a href="https://science.sciencemag.org/content/349/6247/aaa6760/tab-pdf">Crystallization by Particle Attachment in Synthetic, Biogenic, and Geologic Environments</a></p>
+
+
