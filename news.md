@@ -9,10 +9,6 @@ permalink: /news/
         <article class="post">
     
             <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-
-            <div class="date">
-                {{ page.date | date: "%B %e, %Y" }}
-            </div>
               
             <div class="entry">
                 {{ post.content }}
