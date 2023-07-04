@@ -180,7 +180,7 @@ permalink: /publications/
   </tr>
   <tr > 
     <td style="padding: 10px">
-      <img src="https://lesliehamachi.github.io/images/Logo.png" alt="Logo" title="Logo" style="vertical-align:top; font-size: 12px; text-align: center"/>
+      <img src="https://lesliehamachi.github.io/images2017_ChemMater_29_8711.gif" alt="Table of Contents Graphic for Kinetic Control Over CdS Nanocrystal Nucleation Using a Library of Thiocarbonates, Thiocarbamates, and Thioureas" title="TOC Graphic for Kinetic Control Over CdS Nanocrystal Nucleation Using a Library of Thiocarbonates, Thiocarbamates, and Thioureas" style="vertical-align:top; font-size: 12px; text-align: center"/>
     </td>
     <td style="padding: 20px">
      <li><p style="font-size: 16px; font-weight: bold"><a href="https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.7b02861">Kinetic Control Over CdS Nanocrystal Nucleation Using a Library of Thiocarbonates, Thiocarbamates, and Thioureas</a></p></li>
