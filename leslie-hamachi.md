@@ -1,24 +1,29 @@
 ---
 layout: page
-title: Leslie Hamachi, Ph.D.
 permalink: /leslie-hamachi/
 ---
 
-![Leslie Hamachi](https://lesliehamachi.github.io/images/Leslie_Hamachi.jpg)
-
-(she/her/hers)
-
-Assistant Professor
-
-Department of Chemistry and Biochemistry
-
-California Polytechnic State University, San Luis Obispo
-
-Office: Baker Center – Building 180, Room 404
-
-Phone: (805)756-1672
-
-Email: [hamachi@calpoly.edu](mailto:hamachi@calpoly.edu)
+<table>
+  <tr>
+    <th width="75%"></th>
+    <th width="25%"></th>
+  </tr>
+  <tr > 
+    <td style="padding: 10px">
+     <p style="font-size: 24px;"><b>Leslie Hamachi, Ph.D.</b></p>
+     <p style="font-size: 14px;">(she/her/hers)<br>
+        Assistant Professor<br>
+        Department of Chemistry and Biochemistry<br>
+        California Polytechnic State University, San Luis Obispo<br>
+        Office: Baker Center – Building 180, Room 404<br>
+        Phone: (805)756-1672<br>
+        Email: [hamachi@calpoly.edu](mailto:hamachi@calpoly.edu)</p>
+    </td>
+    <td style="padding: 10px">
+      <img src="https://lesliehamachi.github.io/images/Leslie_Hamachi.jpg" alt="Leslie Hamachi" title="Leslie Hamachi" style="vertical-align:top; text-align: center"/>
+    </td>
+  </tr>
+</table>
 
 ### More Information
 
