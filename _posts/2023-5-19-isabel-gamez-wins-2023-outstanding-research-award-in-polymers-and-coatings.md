@@ -4,6 +4,8 @@ title: Isabel Gamez wins 2023 Outstanding Research Award in Polymers and Coating
 tags: news
 ---
 
+<em>May 19, 2023</em><br>
+
 <figure>
   <img src="https://lesliehamachi.github.io/images/Isabel_Gamez.jpg" alt="Isabel Gamez" title="Isabel Gamez">
   <figcaption><em>Isabel Gamez</em></figcaption>
