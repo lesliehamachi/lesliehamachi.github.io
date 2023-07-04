@@ -171,7 +171,7 @@ permalink: /publications/
   </tr>
   <tr > 
     <td style="padding: 10px">
-      <img src="https://lesliehamachi.github.io/images/Logo.png" alt="Logo" title="Logo" style="vertical-align:top; font-size: 12px; text-align: center"/>
+      <img src="https://lesliehamachi.github.io/images/2018_AdvMaterTechnol_.jpg" alt="Table of Contents Graphic for Localizing Seizure Activity in the Brain Using Implantable microLEDs with Quantum Dot Fluorescence" title="TOC Graphic for Localizing Seizure Activity in the Brain Using Implantable microLEDs with Quantum Dot Fluorescence" style="vertical-align:top; font-size: 12px; text-align: center"/>
     </td>
     <td style="padding: 20px">
      <li><p style="font-size: 16px; font-weight: bold"><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/admt.201700366">Localizing Seizure Activity in the Brain Using Implantable microLEDs with Quantum Dot Fluorescence</a></p></li>
