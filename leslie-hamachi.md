@@ -5,13 +5,13 @@ permalink: /leslie-hamachi/
 
 <table>
   <tr>
-    <th width="75%"></th>
-    <th width="25%"></th>
+    <th width="60%"></th>
+    <th width="40%"></th>
   </tr>
   <tr > 
     <td style="padding: 10px">
      <p style="font-size: 24px;"><b>Leslie Hamachi, Ph.D.</b></p>
-     <p style="font-size: 14px;">(she/her/hers)<br>
+     <p style="font-size: 16px;">(she/her/hers)<br>
         Assistant Professor<br>
         Department of Chemistry and Biochemistry<br>
         California Polytechnic State University, San Luis Obispo<br>
