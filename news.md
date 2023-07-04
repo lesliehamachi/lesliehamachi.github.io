@@ -6,8 +6,12 @@ permalink: /news/
 
 
   {% for post in site.posts %}
-      <a href="{{ site.baseurl }}{{ post.url }}"><h2>{{ post.title }}</h2></a>
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
       
+      <div class="date">
+    {{ page.date | date: "%B %e, %Y" }}
+  </div>
+  
       {{ post.excerpt }}
       <hr>
       
