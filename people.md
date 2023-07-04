@@ -5,6 +5,6 @@ permalink: /people/
 ---
 ---
 
-<a href="https://lesliehamachi.github.io/publications/leslie-hamachi">Leslie Hamachi</a><br>
-<a href="https://lesliehamachi.github.io/publications/current-members">Current Students</a><br>
-<a href="https://lesliehamachi.github.io/publications/former-members">Former Students</a>
+<a href="https://lesliehamachi.github.io/leslie-hamachi">Leslie Hamachi</a><br>
+<a href="https://lesliehamachi.github.io/current-members">Current Students</a><br>
+<a href="https://lesliehamachi.github.io/former-members">Former Students</a>
