@@ -14,7 +14,6 @@ permalink: /news/
                 {{ post.content }}
             </div>
 
-            <hr>
          </article>
     {% endfor %}
 </div>
