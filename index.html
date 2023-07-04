@@ -18,8 +18,12 @@ Our lab at California Polytechnic State University, a primarily undergraduate in
 
       <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 
+      <div class="date">
+         {{ page.date | date: "%B %e, %Y" }}
+      </div>
+        
       <div class="entry">
-        {{ post.excerpt }}
+         {{ post.excerpt }}
       </div>
       
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
