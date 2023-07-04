@@ -13,7 +13,7 @@ Our lab at California Polytechnic State University, a primarily undergraduate in
 <h2>Recent News</h2>
 
 <div class="posts">
-  {% for post in site.posts %}
+  {% for post in site.posts limit: 1%}
     <article class="post">
 
       <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
@@ -26,3 +26,5 @@ Our lab at California Polytechnic State University, a primarily undergraduate in
     </article>
   {% endfor %}
 </div>
+
+<a href="https://lesliehamachi.github.io/news/"><h3>View More News</h3></a>
