@@ -5,10 +5,10 @@ layout: default
 <br><br>
 <p><b>Welcome to the Hamachi Group!</b><br>
 Our lab at California Polytechnic State University, a primarily undergraduate institution (PUI), seeks to provide opportunities for young scientists to deepen their understanding of concepts explored in academic coursework and grow as researchers.<br>
-
+<br>
 <em>Learning by doing organic materials research since 2020.</em></p>
 
----
+<hr>
 
 <h2>Recent News</h2>
 
@@ -16,7 +16,7 @@ Our lab at California Polytechnic State University, a primarily undergraduate in
   {% for post in site.posts %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 
       <div class="entry">
         {{ post.excerpt }}
