@@ -4,6 +4,7 @@ title: Group Outing to McConnell’s Ice Cream for our Paper Celebration
 tags: news social
 ---
 
+<em>May 26, 2023</em><br>
 <figure>
 <img src="https://lesliehamachi.github.io/post_content/2023_05_26-McConnells-Ice-Cream-COF-Paper-Celebration.webp" alt="group photo at an ice cream parlor" title="Group Photo at McConnells Ice Cream">
 <figcaption><em>The Hamachi Group at McConnell's Ice Cream:
