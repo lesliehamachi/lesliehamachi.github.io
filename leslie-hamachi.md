@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Leslie Hamachi, Ph.D.
-permalink: /about/
+permalink: /leslie-hamachi/
 ---
 
 ![Leslie Hamachi](https://lesliehamachi.github.io/images/Leslie_Hamachi.jpg)
