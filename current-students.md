@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Group Members
-permalink: /people/
+title: Current Students
+permalink: /current-students/
 ---
 ---
 ## Undergraduate Students
