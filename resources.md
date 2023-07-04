@@ -5,18 +5,18 @@ permalink: /resources/
 ---
 
 ## For Research
-- Solvent Miscibility Table
-- NMR Chemical Shifts of Common Laboratory Solvents
+- <a href="https://lesliehamachi.github.io/assets/solvent_miscibility_chart.jpg" target="_blank" rel="noreferrer noopener">Solvent Miscibility Table</a>
+- <a href="https://lesliehamachi.github.io/assets/nmr-shifts-of-common-laboratory-solvents.pdf" target="_blank" rel="noreferrer noopener">NMR Chemical Shifts of Common Laboratory Solvents</a>
 - [SciFinder](http://scifinder.cas.org/scifinder/) – A searchable database of the chemical literature to find research papers.
 - [Reaxys](https://www.reaxys.com/#/institution) – A searchable database used to look up syntheses of molecules.
 - [Not Voodoo](http://chem.chem.rochester.edu/~nvd/index.php) – Synthetic chemistry laboratory tips and techniques
 - [MolSSI Python Workshops](https://education.molssi.org/python_scripting_cms/) – Learn Python for computational chemistry and data processing
   
 ## General
-- How to Approach a Faculty Member – Tips for contacting faculty members about doing research
+- <a href="https://lesliehamachi.github.io/assets/owens2012_how_to_approach_a_faculty_member.pdf" target="_blank" rel="noreferrer noopener">How to Approach a Faculty Member</a> – Tips for contacting faculty members about doing research
 - [Undergrad in the Lab](https://undergradinthelab.com/node) – Blog on tips, tricks, and strategies to get the most out of your undergraduate research experience
 - [How to Design an Award Winning Conference Poster](https://blogs.lse.ac.uk/impactofsocialsciences/2018/05/11/how-to-design-an-award-winning-conference-poster/) – Design suggestions to help you effectively communicate about your research project
-- How to Write a Conference Abstract
+- <a href="https://lesliehamachi.github.io/assets/six_sentence_abstract.pdf" target="_blank" rel="noreferrer noopener">How to Write a Conference Abstract</a>
 
 ## Conference Travel
 - [Undergraduate Student Travel Award](https://www.lospadresacs.org/meetings/) – Conference travel support for undergraduate students to attend national ACS meetings
