@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 2023 Chemistry and Biochemistry Department Picnic
+tags: social
 ---
 
 <figure>
