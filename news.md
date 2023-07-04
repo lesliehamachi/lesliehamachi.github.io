@@ -11,9 +11,9 @@ permalink: /news/
             <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 
             <div class="entry">
-                {{ post.excerpt }}
+                {{ post.content }}
             </div>
-        
+
             <hr>
          </article>
     {% endfor %}
