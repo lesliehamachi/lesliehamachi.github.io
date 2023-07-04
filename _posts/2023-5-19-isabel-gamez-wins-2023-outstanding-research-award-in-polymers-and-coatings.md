@@ -9,5 +9,4 @@ tags: news
   <figcaption><em>Isabel Gamez</em></figcaption>
 </figure>  
 <br>
-<br>
 Congratulations to 4+1 MS student Isabel Gamez for winning the 2023 Outstanding Research Award in Polymers and Coatings. We are very proud of you!
