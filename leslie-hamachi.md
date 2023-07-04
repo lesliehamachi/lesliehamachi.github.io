@@ -31,8 +31,6 @@ Leslie was born and raised in Mountain View, CA. She obtained her BS in chemistr
 
 Outside of the lab, Leslie is fascinated by the intersection of science and art. She taught chemistry as an adjunct professor at the [Fashion Institute of Technology](https://www.fitnyc.edu/) in the spring of 2018.
 
-CV
-
-[Google Scholar](https://scholar.google.com/citations?user=6BvUnCsAAAAJ&hl=en)
-
+<a href="https://lesliehamachi.github.io/assets/Leslie_Hamachi_CV.pdf" target="_blank" rel="noreferrer noopener">CV</a><br>
+[Google Scholar](https://scholar.google.com/citations?user=6BvUnCsAAAAJ&hl=en)<br>
 [Twitter](https://twitter.com/leslie_hamachi)
