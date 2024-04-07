@@ -152,7 +152,7 @@ permalink: /former-members/
       <img src="https://lesliehamachi.github.io/images/Jachin_Clarke.jpg" alt="Jachin Clarke" title="Jachin Clarke"><br>BS Materials Engineering, MS Polymers and Coatings Science (2024)<br><br><b>Current Position:</b><br>EPS
     </td>
     <td>
-      <img src="https://lesliehamachi.github.io/images/Ypatia_Kondos.jpg" alt="Ypatia Kondos" title="Ypatia Kondos"><br>MS Polymers and Coatings Science (expected 2026)
+      <img src="https://lesliehamachi.github.io/images/Ypatia_Kondos.png" alt="Ypatia Kondos" title="Ypatia Kondos"><br>MS Polymers and Coatings Science (expected 2026)
     </td>
     <td>
     </td>
