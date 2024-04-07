@@ -82,6 +82,7 @@ permalink: /current-members/
       <img src="https://lesliehamachi.github.io/images/Estela_Osorio.png" alt="Estela Osorio-Garcia" title="Estela Osorio-Garcia"><br>BS Biochemistry, MS Polymers and Coatings Science (expected 2025)
     </td>
     <td>
+      <img src="https://lesliehamachi.github.io/images/logo_small.png" alt="Kyle Liston" title="Kyle Liston"><br>MS Polymers and Coatings Science (expected 2025)
     </td>
     <td>
     </td>
