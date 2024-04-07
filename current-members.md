@@ -66,6 +66,9 @@ permalink: /current-members/
       <img src="https://lesliehamachi.github.io/images/Jackson_Arroyo.png" alt="Jackson Arroyo" title="Jackson Arroyo"><br>BS Biochemistry (expected 2026)
     </td>    
   </tr>
+</table>
+<br>
+<table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">Olive Rosplock</th>
     <th width="12.5%"></th>
@@ -97,7 +100,7 @@ permalink: /current-members/
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">Estela Osorio-Garcia</th>
     <th width="12.5%">Kyle Liston</th>
-    <th width="12.5%"></th>
+    <th width="12.5%">Sierra Sanchez</th>
     <th width="12.5%"></th>
     <th width="12.5%"></th>
     <th width="12.5%"></th>
@@ -110,6 +113,7 @@ permalink: /current-members/
       <img src="https://lesliehamachi.github.io/images/Kyle_Liston.png" alt="Kyle Liston" title="Kyle Liston"><br>MS Polymers and Coatings Science (expected 2025)
     </td>
     <td>
+      <img src="https://lesliehamachi.github.io/images/Sierra_Sanchez.png" alt="Sierra Sanchez" title="Sierra Sanchez"><br>BS Chemistry, MS Polymers and Coatings Science (expected 2026)
     </td>
     <td>
     </td>
