@@ -32,7 +32,7 @@ permalink: /current-members/
       <img src="https://lesliehamachi.github.io/images/Hannah_Negri.jpg" alt="Hannah Negri" title="Hannah Negri"><br>BS Chemistry (expected 2025)
     </td>
     <td>
-      <img src="https://lesliehamachi.github.io/images/Jeffrey_Johnson.png" alt="Jeffrey Johnson" title="Jeffrey Johnson"><br>BS Biochemistry (2026)
+      <img src="https://lesliehamachi.github.io/images/Jeffrey_Johnson.png" alt="Jeffrey Johnson" title="Jeffrey Johnson"><br>BS Biochemistry (expected 2026)
     </td>
   </tr>
 </table>
