@@ -71,8 +71,8 @@ permalink: /current-members/
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">Olive Rosplock</th>
-    <th width="12.5%"></th>
-    <th width="12.5%"></th>
+    <th width="12.5%">Jane Dormady</th>
+    <th width="12.5%">Anna Delmas</th>
     <th width="12.5%"></th>
     <th width="12.5%"></th>
     <th width="12.5%"></th>    
@@ -82,8 +82,10 @@ permalink: /current-members/
       <img src="https://lesliehamachi.github.io/images/Olive_Rosplock.png" alt="Olive Rosplock" title="Olive Rosplock"><br>BS Biochemistry (expected 2026)
     </td>
     <td>
+      <img src="https://lesliehamachi.github.io/images/Jane_Dormady.png" alt="Jane Dormady" title="Jane Dormadyk"><br>BS Liberal Studies, Minor in Child Development (expected 2025)
     </td>
     <td>
+      <img src="https://lesliehamachi.github.io/images/Anna_Delmas.png" alt="Anna_Delmas" title="Anna_Delmas"><br>BS Liberal Studies, Science Concentration (expected 2024)
     </td>
     <td>
     </td>
