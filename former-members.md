@@ -97,6 +97,7 @@ permalink: /former-members/
     </td>
   </tr>
 </table>
+<br>
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">Hayden Ankrum</th>
