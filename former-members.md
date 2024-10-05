@@ -97,6 +97,35 @@ permalink: /former-members/
     </td>
   </tr>
 </table>
+<table>
+  <tr style="font-size: 14px; text-align: center; font-weight: bold">
+    <th width="12.5%">Hayden Ankrum</th>
+    <th width="12.5%">Harkeerith Vij</th>
+    <th width="12.5%">Jane Dormady</th>
+    <th width="12.5%">Anna Delmas</th>
+    <th width="12.5%">Ava Rider</th>
+    <th width="12.5%"></th>
+  </tr>
+  <tr style="vertical-align:top; font-size: 10px; text-align: center"> 
+    <td>
+      <img src="https://lesliehamachi.github.io/images/Hayden_Ankrum.png" alt="Hayden Ankrum" title="Hayden Ankrum"><br>BS Biochemistry (expected 2025)
+    </td>
+    <td>
+      <img src="https://lesliehamachi.github.io/images/Harkeerith_Vij.png" alt="Harkeerith Vij" title="Harkeerith Vij"><br>BS Materials Engineering (expected 2025)
+    </td>
+    <td>
+      <img src="https://lesliehamachi.github.io/images/Jane_Dormady.png" alt="Jane Dormady" title="Jane Dormady"><br>BS Liberal Studies, Minor in Child Development (expected 2025)
+    </td>
+    <td>
+      <img src="https://lesliehamachi.github.io/images/Anna_Delmas.png" alt="Anna Delmas" title="Anna Delmas"><br>BS Liberal Studies, Science Concentration (expected 2024)
+    </td>
+    <td>
+      <img src="https://lesliehamachi.github.io/images/Ava_Rider.png" alt="Ava_Rider" title="Ava Rider"><br>BS Civil Engineering (expected 2028)
+    </td>
+    <td>
+    </td>
+  </tr>
+</table>
 
 
 ---
