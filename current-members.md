@@ -59,10 +59,10 @@ permalink: /current-members/
       <img src="https://lesliehamachi.github.io/images/Sophie_Tinkle.png" alt="Sohpie Tinkle" title="Sophie Tinkle"><br>BS Chemistry (expected 2028)
     </td>
     <td>
-      <img src="https://lesliehamachi.github.io/images/Martin_Nelson.png" alt="Martin Nelson" title="Martin Nelson"><br>BS Chemistry (expected 2026)
+      <img src="https://lesliehamachi.github.io/images/logo_small.png" alt="Martin Nelson" title="Martin Nelson"><br>BS Chemistry (expected 2026)
     </td>
     <td>
-      <img src="https://lesliehamachi.github.io/images/Winston_Untung.png" alt="Winston Untung" title="Winston Untung"><br>BS Materials Engineering (expected 2026)
+      <img src="https://lesliehamachi.github.io/images/logo_small.png" alt="Winston Untung" title="Winston Untung"><br>BS Materials Engineering (expected 2026)
     </td>
   </tr>
 </table>
