@@ -167,8 +167,8 @@ permalink: /former-members/
     <th width="12.5%">Julie Hostetter</th>
     <th width="12.5%">Addison Wolfson</th>
     <th width="12.5%">Jachin Clarke</th>
+    <th width="12.5%">Estela Osorio-Garcia</th>
     <th width="12.5%">Ypatia Kondos</th>
-    <th width="12.5%"></th>
     <th width="12.5%"></th>
   </tr>
   <tr style="vertical-align:top; font-size: 10px; text-align: center"> 
@@ -182,9 +182,9 @@ permalink: /former-members/
       <img src="https://lesliehamachi.github.io/images/Jachin_Clarke.jpg" alt="Jachin Clarke" title="Jachin Clarke"><br>BS Materials Engineering, MS Polymers and Coatings Science (2024)<br><br><b>Current Position:</b><br>EPS
     </td>
     <td>
+      <img src="https://lesliehamachi.github.io/images/Estela_Osorio.png" alt="Estela Osorio-Garcia" title="Estela Osorio-Garcia"><br>BS Biochemistry, MS Polymers and Coatings Science (expected 2025)
+    </td>    <td>
       <img src="https://lesliehamachi.github.io/images/Ypatia_Kondos.png" alt="Ypatia Kondos" title="Ypatia Kondos"><br>MS Polymers and Coatings Science (expected 2026)
-    </td>
-    <td>
     </td>
     <td>
     </td>
