@@ -47,22 +47,22 @@ permalink: /former-members/
   </tr>
   <tr style="vertical-align:top; font-size: 10px; text-align: center"> 
     <td>
-      <img src="https://lesliehamachi.github.io/images/Chris_Murray.png" alt="Chris Murray" title="Chris Murray"><br>BS Materials Engineering (2023)
+      <img src="https://lesliehamachi.github.io/images/Chris_Murray.png" alt="Chris Murray" title="Chris Murray"><br>BS Materials Engineering (2023)<br><br><b>Current Position:</b><br>Trelleborg Healthcare & Medical
     </td>
     <td>
-      <img src="https://lesliehamachi.github.io/images/Nathalie_Silva.png" alt="Nathalie Silva" title="Nathalie Silva"><br>BS Materials Engineering (2023)
+      <img src="https://lesliehamachi.github.io/images/Nathalie_Silva.png" alt="Nathalie Silva" title="Nathalie Silva"><br>BS Materials Engineering (2023)<br><br><b>Current Position:</b><br>Lockheed Martin
     </td>
     <td>
       <img src="https://lesliehamachi.github.io/images/Donna_Tran.png" alt="Donna Tran" title="Donna Tran"><br>BS Biochemistry (2023)
     </td>
     <td>
-      <img src="https://lesliehamachi.github.io/images/Chanh_Lam.jpg" alt="Chanh Lam" title="Chanh Lam"><br>BS Mechanical Engineering (expected 2023)
+      <img src="https://lesliehamachi.github.io/images/Chanh_Lam.jpg" alt="Chanh Lam" title="Chanh Lam"><br>BS Mechanical Engineering (expected 2025)
     </td>
     <td>
-      <img src="https://lesliehamachi.github.io/images/Brandon_Ngo.png" alt="Brandon Ngo" title="Brandon Ngo"><br>BS Chemistry (expected 2024)
+      <img src="https://lesliehamachi.github.io/images/Brandon_Ngo.png" alt="Brandon Ngo" title="Brandon Ngo"><br>BS Chemistry (2023)
     </td>
     <td>
-      <img src="https://lesliehamachi.github.io/images/Alyssa_Chew.png" alt="Alyssa Chew" title="Alyssa Chew"><br>BS Biochemistry (expected 2024)
+      <img src="https://lesliehamachi.github.io/images/Alyssa_Chew.png" alt="Alyssa Chew" title="Alyssa Chew"><br>BS Biochemistry (expected 2025)
     </td>
   </tr>
 </table>
@@ -78,19 +78,19 @@ permalink: /former-members/
   </tr>
   <tr style="vertical-align:top; font-size: 10px; text-align: center"> 
     <td>
-      <img src="https://lesliehamachi.github.io/images/Ethan_Nogle.png" alt="Ethan Nogle" title="Ethan Nogle"><br>BS Chemistry (expected 2024)
+      <img src="https://lesliehamachi.github.io/images/Ethan_Nogle.png" alt="Ethan Nogle" title="Ethan Nogle"><br>BS Chemistry (2024)<br><br><b>Current Position:</b><br>Epic Movement
     </td>
     <td>
-      <img src="https://lesliehamachi.github.io/images/Robert_Orta.png" alt="Robert Orta" title="Robert Orta"><br>BS Materials Engineering (expected 2024)
+      <img src="https://lesliehamachi.github.io/images/Robert_Orta.png" alt="Robert Orta" title="Robert Orta"><br>BS Materials Engineering (024)
     </td>
     <td>
-      <img src="https://lesliehamachi.github.io/images/Kyle_Wang.png" alt="Kyle Wang" title="Kyle Wang"><br>BS Materials Engineering (expected 2024)
+      <img src="https://lesliehamachi.github.io/images/Kyle_Wang.png" alt="Kyle Wang" title="Kyle Wang"><br>BS Materials Engineering (2024)<br><br><b>Current Position:</b><br>Entegris
     </td>
     <td>
-      <img src="https://lesliehamachi.github.io/images/Rebecca_Winger.png" alt="Rebecca Winger" title="Rebecca Winger"><br>BS Materials Engineering (expected 2024)
+      <img src="https://lesliehamachi.github.io/images/Rebecca_Winger.png" alt="Rebecca Winger" title="Rebecca Winger"><br>BS Materials Engineering (2024)<br><br><b>Current Position:</b><br>Applied Materials
     </td>
     <td>
-      <img src="https://lesliehamachi.github.io/images/Nathan_Wong.png" alt="Nathan Wong" title="Nathan Wong"><br>BS Materials Engineering (expected 2024)
+      <img src="https://lesliehamachi.github.io/images/Nathan_Wong.png" alt="Nathan Wong" title="Nathan Wong"><br>BS Materials Engineering (2024)
     </td>
     <td>
       <img src="https://lesliehamachi.github.io/images/Kyla_Carlson.png" alt="Kyla Carlson" title="Kyla Carlson"><br>BS Materials Engineering (expected 2025)
@@ -182,7 +182,7 @@ permalink: /former-members/
       <img src="https://lesliehamachi.github.io/images/Jachin_Clarke.jpg" alt="Jachin Clarke" title="Jachin Clarke"><br>BS Materials Engineering, MS Polymers and Coatings Science (2024)<br><br><b>Current Position:</b><br>EPS
     </td>
     <td>
-      <img src="https://lesliehamachi.github.io/images/Estela_Osorio.png" alt="Estela Osorio-Garcia" title="Estela Osorio-Garcia"><br>BS Biochemistry, MS Polymers and Coatings Science (expected 2025)
+      <img src="https://lesliehamachi.github.io/images/Estela_Osorio.png" alt="Estela Osorio-Garcia" title="Estela Osorio-Garcia"><br>BS Biochemistry, MS Polymers and Coatings Science (expected 2025)<br><br><b>Current Position:</b><br>Dunn Edwards
     </td>    <td>
       <img src="https://lesliehamachi.github.io/images/Ypatia_Kondos.png" alt="Ypatia Kondos" title="Ypatia Kondos"><br>MS Polymers and Coatings Science (expected 2026)
     </td>
