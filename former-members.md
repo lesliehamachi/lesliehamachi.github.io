@@ -105,7 +105,7 @@ permalink: /former-members/
     <th width="12.5%">Jane Dormady</th>
     <th width="12.5%">Anna Delmas</th>
     <th width="12.5%">Ava Rider</th>
-    <th width="12.5%"></th>
+    <th width="12.5%">Zoe Maheras</th>
   </tr>
   <tr style="vertical-align:top; font-size: 10px; text-align: center"> 
     <td>
@@ -124,6 +124,7 @@ permalink: /former-members/
       <img src="https://lesliehamachi.github.io/images/Ava_Rider.png" alt="Ava_Rider" title="Ava Rider"><br>BS Civil Engineering (expected 2028)
     </td>
     <td>
+      <img src="https://lesliehamachi.github.io/images/Zoe_Maheras.png" alt="Zoe Maheras" title="Zoe Maheras"><br>BS Materials Engineering (expected 2027)
     </td>
   </tr>
 </table>
@@ -169,7 +170,7 @@ permalink: /former-members/
     <th width="12.5%">Jachin Clarke</th>
     <th width="12.5%">Estela Osorio-Garcia</th>
     <th width="12.5%">Ypatia Kondos</th>
-    <th width="12.5%"></th>
+    <th width="12.5%">Sierra Sanchez</th>
   </tr>
   <tr style="vertical-align:top; font-size: 10px; text-align: center"> 
     <td>
@@ -187,6 +188,7 @@ permalink: /former-members/
       <img src="https://lesliehamachi.github.io/images/Ypatia_Kondos.png" alt="Ypatia Kondos" title="Ypatia Kondos"><br>MS Polymers and Coatings Science (expected 2026)
     </td>
     <td>
+      <img src="https://lesliehamachi.github.io/images/Sierra_Sanchez.png" alt="Sierra Sanchez" title="Sierra Sanchez"><br>BS Chemistry, MS Polymers and Coatings Science (expected 2026)
     </td>
   </tr>
 </table>
