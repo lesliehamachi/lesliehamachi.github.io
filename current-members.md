@@ -78,7 +78,7 @@ permalink: /current-members/
   </tr>
   <tr style="vertical-align:top; font-size: 12px; text-align: center"> 
     <td>
-       <img src="https://lesliehamachi.github.io/images/Cole Nakamoto.png" alt="Cole Nakamoto" title="Cole Nakamoto"><br>BS Materials Engineering (expected 2026)
+       <img src="https://lesliehamachi.github.io/images/Cole_Nakamoto.png" alt="Cole Nakamoto" title="Cole Nakamoto"><br>BS Materials Engineering (expected 2026)
     </td>
     <td>
     </td>
