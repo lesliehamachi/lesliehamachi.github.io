@@ -70,7 +70,7 @@ permalink: /current-members/
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">Cole Nakamoto</th>
-    <th width="12.5%"></th> 
+    <th width="12.5%">Angelina Tang</th> 
     <th width="12.5%"></th> 
     <th width="12.5%"></th>
     <th width="12.5%"></th>
@@ -81,6 +81,7 @@ permalink: /current-members/
        <img src="https://lesliehamachi.github.io/images/Cole_Nakamoto.png" alt="Cole Nakamoto" title="Cole Nakamoto"><br>BS Materials Engineering (expected 2026)
     </td>
     <td>
+       <img src="https://lesliehamachi.github.io/images/Angelina_Tang.png" alt="Angelina Tang" title="Angelina Tang"><br>BS Chemistry (expected 2025)
     </td>
     <td>
     </td>
