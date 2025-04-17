@@ -13,7 +13,7 @@ permalink: /people/
 
 <!-- Current Members Section -->
 <div id="current" class="people-section">
-  ## Undergraduate Students
+  <strong>Undergraduate Students</strong>
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">Alexis Mojica</th>
@@ -105,9 +105,8 @@ permalink: /people/
   </tr>
 </table>
 <br>
----
-
-## Masters Students
+<hr /> <!-- This adds a line break between sections -->
+### Masters Students
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">Kyle Liston</th>
@@ -264,8 +263,8 @@ permalink: /people/
   </tr>
 </table>
 
-
----
+<br>
+<hr /> <!-- This adds a line break between sections -->
 ### Masters Students
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
