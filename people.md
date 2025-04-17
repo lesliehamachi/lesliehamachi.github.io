@@ -16,6 +16,35 @@ permalink: /people/
   <strong>Undergraduate Students</strong>
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
+    <th width="12.5%">Prof. Hamachi</th>
+    <th width="12.5%"></th>
+    <th width="12.5%"></th>
+    <th width="12.5%"></th>
+    <th width="12.5%"></th> 
+    <th width="12.5%"></th>
+  </tr>
+  <tr style="vertical-align:top; font-size: 12px; text-align: center"> 
+    <td>
+      <img src="https://lesliehamachi.github.io/images/Leslie_Hamachi.jpg" alt="Leslie Hamachi" title="Leslie Hamachi">
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>    
+    <td>
+    </td>
+  </tr>
+</table>
+<br>
+<hr /> <!-- This adds a line break between sections -->
+<br>
+  <strong>Undergraduate Students</strong>
+<table>
+  <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">Alexis Mojica</th>
     <th width="12.5%">Zoe Jackson Delos Angeles</th>
     <th width="12.5%">Hannah Negri</th>
@@ -106,7 +135,8 @@ permalink: /people/
 </table>
 <br>
 <hr /> <!-- This adds a line break between sections -->
-### Masters Students
+<br>
+<strong>Masters Students</strong>
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">Kyle Liston</th>
@@ -138,7 +168,7 @@ permalink: /people/
 
 <!-- Former Members Section -->
 <div id="former" class="people-section" style="display:none;">
- ### Undergraduate Students
+<strong>Undergraduate Students</strong>
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">André Lagron</th>
@@ -262,10 +292,10 @@ permalink: /people/
     </td>
   </tr>
 </table>
-
 <br>
 <hr /> <!-- This adds a line break between sections -->
-### Masters Students
+<br>
+<strong>Masters Students</strong>
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">Brendan Posson</th>
