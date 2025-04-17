@@ -15,7 +15,7 @@ permalink: /people/
 <!-- Current Members Section -->
 <div id="current" class="people-section">
 <table>
-  <tr text-align: center; font-weight: bold">
+  <tr style="text-align: center; font-weight: bold">
     <th width="12.5%"><a href = "https://thehamachigroup.com/leslie-hamachi/">Prof. Hamachi</a></th>
     <th width="12.5%"></th>
     <th width="12.5%"></th>
