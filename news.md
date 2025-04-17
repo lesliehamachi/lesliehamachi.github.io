@@ -37,6 +37,7 @@ permalink: /news/
             {{ post.content }}
           </div>
         </article>
+        <hr /> <!-- This adds a line break after each post -->
       {% endfor %}
     </div>
   {% endfor %}
