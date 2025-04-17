@@ -9,12 +9,13 @@ permalink: /people/
 <div id="people-nav" style="margin-bottom: 1em;">
   <a href="javascript:void(0);" onclick="showPeople('current')" id="link-current">Current Members</a> |
   <a href="javascript:void(0);" onclick="showPeople('former')" id="link-former">Former Members</a>
+  <hr /> <!-- This adds a line break between sections -->
 </div>
 
 <!-- Current Members Section -->
 <div id="current" class="people-section">
 <table>
-  <tr style="font-size: 14px; text-align: center; font-weight: bold">
+  <tr text-align: center; font-weight: bold">
     <th width="12.5%"><a href = "https://thehamachigroup.com/leslie-hamachi/">Prof. Hamachi</a></th>
     <th width="12.5%"></th>
     <th width="12.5%"></th>
