@@ -56,7 +56,7 @@ permalink: /current-members/
       <img src="https://lesliehamachi.github.io/images/Andrew_Cherry.png" alt="Andrew Cherry" title="Andrew Cherry"><br>BS Chemistry (expected 2027)
     </td>
     <td>
-      <img src="https://lesliehamachi.github.io/images/Nix_Tinkle.png" alt="Nix Tinkle" title="Nix Tinkle"><br>BS Chemistry (expected 2028)
+      <img src="https://lesliehamachi.github.io/images/Nix_Tinkle.png" alt="Nix Tinkle" title="Nix Tinkle"><br>BS Chemistry (expected 2027)
     </td>
     <td>
       <img src="https://lesliehamachi.github.io/images/Martin_Nelson.png" alt="Martin Nelson" title="Martin Nelson"><br>BS Chemistry (expected 2026)
@@ -71,8 +71,8 @@ permalink: /current-members/
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">Cole Nakamoto</th>
     <th width="12.5%">Angelina Tang</th> 
-    <th width="12.5%"></th> 
-    <th width="12.5%"></th>
+    <th width="12.5%">Ava Durbin</th> 
+    <th width="12.5%">Maelyn Peters</th>
     <th width="12.5%"></th>
     <th width="12.5%"></th>
   </tr>
@@ -84,8 +84,10 @@ permalink: /current-members/
        <img src="https://lesliehamachi.github.io/images/Angelina_Tang.png" alt="Angelina Tang" title="Angelina Tang"><br>BS Chemistry (expected 2025)
     </td>
     <td>
+       <img src="https://lesliehamachi.github.io/images/Ava_Durbin.png" alt="Ava Durbin" title="Ava Durbin"><br>BS Chemistry (expected 2027)
     </td>
     <td>
+       <img src="https://lesliehamachi.github.io/images/Maelyn_Peters.png" alt="Maelyn Peters" title="Maelyn Peters"><br>BS Materials Engineering (expected 2028)
     </td>
     <td>
     </td>
