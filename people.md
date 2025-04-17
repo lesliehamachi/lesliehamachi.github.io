@@ -13,10 +13,9 @@ permalink: /people/
 
 <!-- Current Members Section -->
 <div id="current" class="people-section">
-  <strong>Undergraduate Students</strong>
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
-    <th width="12.5%">Prof. Hamachi</th>
+    <th width="12.5%"><a href = "https://thehamachigroup.com/leslie-hamachi/">Prof. Hamachi</a></th>
     <th width="12.5%"></th>
     <th width="12.5%"></th>
     <th width="12.5%"></th>
@@ -43,6 +42,7 @@ permalink: /people/
 <hr /> <!-- This adds a line break between sections -->
 <br>
   <strong>Undergraduate Students</strong>
+  <br>
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">Alexis Mojica</th>
@@ -137,6 +137,7 @@ permalink: /people/
 <hr /> <!-- This adds a line break between sections -->
 <br>
 <strong>Masters Students</strong>
+<br>
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">Kyle Liston</th>
@@ -169,6 +170,7 @@ permalink: /people/
 <!-- Former Members Section -->
 <div id="former" class="people-section" style="display:none;">
 <strong>Undergraduate Students</strong>
+<br>
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">André Lagron</th>
@@ -296,6 +298,7 @@ permalink: /people/
 <hr /> <!-- This adds a line break between sections -->
 <br>
 <strong>Masters Students</strong>
+<br>
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">Brendan Posson</th>
