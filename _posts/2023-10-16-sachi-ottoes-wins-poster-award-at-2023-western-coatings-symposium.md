@@ -3,6 +3,11 @@ layout: post
 title: Sachi Ottoes Wins Poster Award at 2023 Western Coatings Symposium
 tags: news
 ---
+<figure>
+  <img src="https://lesliehamachi.github.io/images/Sachi_Ottoes.png" alt="Sachi Ottoes" title="Sachi Ottoes">
+  <figcaption><em>Sachi Ottoes</em></figcaption>
+</figure>  
+<br>
 
 Chemistry major Sachi Ottoes presented a poster on her work titled “2D COF Water-Based Latex Coatings.” Congratulations to Sachi for winning first place in the undergraduate student poster competition! Thank you to WCS for the opportunity to present this work, ACS PRF, and to the William and Linda Frost Fund for helping fund Sachi's summer research!
 
