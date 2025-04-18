@@ -7,7 +7,7 @@ tags: news social
 <figure>
 <img src="https://lesliehamachi.github.io/post_content/2023_05_26-McConnells-Ice-Cream-COF-Paper-Celebration.webp" alt="group photo at an ice cream parlor" title="Group Photo at McConnells Ice Cream">
 <figcaption><em>The Hamachi Group at McConnell's Ice Cream:
-Top (L-R): Dean Kim, Jeffrey Johnson, Brian Tinkle, Nathan Wong, Sachi Ottoes, Kyla Carlson; 
+Top (L-R): Dean Kim, Jeffrey Johnson, Nix Tinkle, Nathan Wong, Sachi Ottoes, Kyla Carlson; 
   Front (L-R): Donna Tran, Alyssa Chew, Dr. Hamachi, Rebecca Winger</em></figcaption>
 </figure>  
 <br>
