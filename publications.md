@@ -11,6 +11,24 @@ permalink: /publications/
     <th width="25%"></th>
     <th width="75%"></th>
   </tr>
+ <tr > 
+    <td style="padding: 10px">
+      <img src="https://lesliehamachi.github.io/images/2025_FrontMater_12_1576384.png" alt="Table of Contents Graphic for Editorial: Recent Advances in Sustainable Polymer Materials" title="TOC Graphic for Editorial: Recent Advances in Sustainable Polymer Materials" style="vertical-align:top; font-size: 12px; text-align: center"/>
+    </td>
+    <td style="padding: 30px">
+     <li><p style="font-size: 16px; font-weight: bold"><a href="https://www.frontiersin.org/journals/materials/articles/10.3389/fmats.2025.1576384/full">Editorial: Recent Advances in Sustainable Polymer Materials</a></p></li>
+     <p style="font-size: 14px;">Zhang, S.;* Curtzwiler, G.; Hamachi, L. S.; Huang, Y.; Kathuria, A. <em>Front. Mater.</em> <b>2025</b>, <em>12</em>, 1576384.</p>
+    </td>
+  </tr>
+  <tr > 
+    <td style="padding: 10px">
+      <img src="https://lesliehamachi.github.io/images/2024_JInclPhenomMacrocyclChem_105_65.gif" alt="Table of Contents Graphic for Mechanochemical Synthesis of Calcium-Squarate MOF and Encapsulation of Hexanal" title="TOC Graphic for Mechanochemical Synthesis of Calcium-Squarate MOF and Encapsulation of Hexanal" style="vertical-align:top; font-size: 12px; text-align: center"/>
+    </td>
+    <td style="padding: 30px">
+     <li><p style="font-size: 16px; font-weight: bold"><a href="https://link.springer.com/article/10.1007/s10847-024-01266-w">Mechanochemical Synthesis of Calcium-Squarate MOF and Encapsulation of Hexanal</a></p></li>
+     <p style="font-size: 14px;">Kathuria, A.;* Bollen, T.; Kivy, M. B.; Hamachi, L. S.; Buntinx, M.; Auras, M. <em>J. Incl. Phenom. Macrocycl. Chem.</em> <b>2024</b>, <em>105</em>, 65-74.</p>
+    </td>
+  </tr>
   <tr > 
     <td style="padding: 10px">
       <img src="https://lesliehamachi.github.io/images/2023_TrendsFoodSci_138_323.png" alt="Table of Contents Graphic for Environmentally Benign Bioderived, Biocompatible, Thermally Stable MOFs Suitable for Food Contact Applications" title="TOC Graphic for Environmentally Benign Bioderived, Biocompatible, Thermally Stable MOFs Suitable for Food Contact Applications" style="vertical-align:top; font-size: 12px; text-align: center"/>
@@ -68,6 +86,15 @@ permalink: /publications/
     <th width="75%"></th>
   </tr>
  <tr > 
+    <td style="padding: 10px">
+      <img src="https://lesliehamachi.github.io/images/2023_ChemSci_14_12345.gif" alt="Table of Contents Graphic for Synthesis of Graded CdS1−xSex Nanoplatelet Alloys and Heterostructures from Pairs of Chalcogenoureas with Tailored Conversion Reactivity" title="TOC Graphic for Synthesis of Graded CdS1−xSex Nanoplatelet Alloys and Heterostructures from Pairs of Chalcogenoureas with Tailored Conversion Reactivity" style="vertical-align:top; font-size: 12px; text-align: center"/>
+    </td>
+    <td style="padding: 30px">
+     <li><p style="font-size: 16px; font-weight: bold"><a href="[https://pubs.acs.org/doi/abs/10.1021/jacs.2c07166](https://pubs.rsc.org/en/content/articlehtml/2023/sc/d3sc03384h)">Synthesis of Graded CdS<sub>1−x</sub>Se<sub>x</sub> Nanoplatelet Alloys and Heterostructures from Pairs of Chalcogenoureas with Tailored Conversion Reactivity</a></p></li>
+     <p style="font-size: 14px;">Saenz, N.; Hamachi, L. S.; Wolock, A.; Goodge, B. H.; Kuntzmann, A.; Dubertret, B.; Billinge, I.; Kourkoutis, L. F.; Muller, D. A.; Crowther, A. C.; Owen, J. S.* <em>Chem. Sci.</em> <b>2023</b>, <em>14</em>, 12345-12354.</p>
+    </td>
+  </tr>
+  <tr > 
     <td style="padding: 10px">
       <img src="https://lesliehamachi.github.io/images/2022_JACS_144_19813.webp" alt="Table of Contents Graphic for Single-Crystalline Imine-Linked Two-Dimensional Covalent Organic Frameworks Separate Benzene and Cyclohexane Efficiently" title="TOC Graphic for Single-Crystalline Imine-Linked Two-Dimensional Covalent Organic Frameworks Separate Benzene and Cyclohexane Efficiently" style="vertical-align:top; font-size: 12px; text-align: center"/>
     </td>
