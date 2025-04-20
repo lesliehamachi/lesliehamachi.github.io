@@ -21,9 +21,12 @@ permalink: /resources/
 ## Conference Travel
 - [Undergraduate Student Travel Award](https://www.lospadresacs.org/meetings/) – Conference travel support for undergraduate students to attend national ACS meetings
 - [Graduate Conference Award](https://grad.calpoly.edu/resources/financial-opportunities/grad-conference-award.html) – Conference travel support for PCS MS Students at Cal Poly
-  
+
+## Cal Poly Research Funding
+- [Baker-Koob Endowment](https://provost.calpoly.edu/BakerKoob) – up to $5000 to support interdisciplinary, student-initiated research projects at Cal Poly. Contact Dr. Hamachi if you have a project idea and are looking for a mentor. Applications historically due early/mid November.
+
 ## Scholarships
 - [Elmer Carvey Scholarship](https://www.sccavs.org/CarveyScholarshipApplication.pdf) – $1500 from the Southern California Chapter of the AVS for an undergraduate student majoring in physics, chemistry, or materials engineering. (Planned careers in biology/medicine generally not eligible) Applications historically due 7/1.
 - [GGSCT Scholarship](https://www.ggsct.com/scholarships) – scholarship from the Golden Gate Society for Coatings Technology (GGSCT) for current college students or high school students about to attend college who are members of the Golden Gate Society for Coatings Technology. Applications historically due 9/15.
 - [LASCT Scholarship](https://lasct.org/education/) – scholarship from the Los Angeles Society for Coatings Technology (LASCT) for an undergraduate or masters student majoring in physical science, engineering, or mathematics. Preference is given to students specializing in fields related to coatings technology. Applications historically due 2/28.
-- [Powder Coating Institute Scholarship](https://www.powdercoating.org/page/ScholarshipApp) – scholarship from the Powder Coating Institute (PCI). Applications historically due 4/24.
+- [Powder Coating Institute Scholarship](https://www.powdercoating.org/page/Scholarship) – scholarship from the Powder Coating Institute (PCI). Applications historically due 4/24.
