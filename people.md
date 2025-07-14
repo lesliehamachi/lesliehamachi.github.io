@@ -291,8 +291,8 @@ permalink: /people/
     </td>
   </tr>
 </table>
+<hr /> <!-- This adds a line break between sections -->
 
----
 <strong>Masters Students</strong>
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
