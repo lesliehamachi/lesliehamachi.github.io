@@ -138,7 +138,7 @@ permalink: /people/
 
 <!-- Former Members Section -->
 <div id="former" class="people-section" style="display:none;">
-### Undergraduate Students
+<Strong>Undergraduate Students</Strong>
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">André Lagron</th>
@@ -150,7 +150,7 @@ permalink: /people/
   </tr>
   <tr style="vertical-align:top; font-size: 10px; text-align: center"> 
     <td>
-      <img src="https://lesliehamachi.github.io/images/Andre_Lagron.png" alt="Andre Lagron" title="Andre Lagron"><br>BS Chemistry (2022)<br><br><b>Current Position:</b><br>Friedman and Bruya
+      <img src="https://lesliehamachi.github.io/images/Andre_Lagron.png" alt="Andre Lagron" title="Andre Lagron"><br>BS Chemistry (2022)<br><br><b>Current Position:</b><br>MS Student, University of Washington
     </td>
     <td>
       <img src="https://lesliehamachi.github.io/images/Daisy_Kamp.png" alt="Daisy Kamp" title="Daisy Kamp"><br>BS Materials Engineering (2022)<br><br><b>Current Position:</b><br>PhD Student, UC Irvine
@@ -293,7 +293,7 @@ permalink: /people/
 </table>
 
 ---
-### Masters Students
+<strong>Masters Students</strong>
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">Brendan Posson</th>
@@ -347,10 +347,10 @@ permalink: /people/
     <td>
       <img src="https://lesliehamachi.github.io/images/Estela_Osorio.png" alt="Estela Osorio-Garcia" title="Estela Osorio-Garcia"><br>BS Biochemistry, MS Polymers and Coatings Science (expected 2025)<br><br><b>Current Position:</b><br>Dunn Edwards
     </td>    <td>
-      <img src="https://lesliehamachi.github.io/images/Ypatia_Kondos.png" alt="Ypatia Kondos" title="Ypatia Kondos"><br>MS Polymers and Coatings Science (expected 2026)<br><br><b>Current Position: Arlon Graphics</b><br>
+      <img src="https://lesliehamachi.github.io/images/Ypatia_Kondos.png" alt="Ypatia Kondos" title="Ypatia Kondos"><br>MS Polymers and Coatings Science (expected 2026)<br><br><b>Current Position:</b><br>Arlon Graphics
     </td>
     <td>
-      <img src="https://lesliehamachi.github.io/images/Sierra_Sanchez.png" alt="Sierra Sanchez" title="Sierra Sanchez"><br>BS Chemistry, MS Polymers and Coatings Science (expected 2026)<br><br><b>Current Position: Cal Poly</b><br>
+      <img src="https://lesliehamachi.github.io/images/Sierra_Sanchez.png" alt="Sierra Sanchez" title="Sierra Sanchez"><br>BS Chemistry, MS Polymers and Coatings Science (expected 2026)<br><br><b>Current Position:</b><br>Cal Poly
     </td>
   </tr>
 </table>
@@ -366,13 +366,13 @@ permalink: /people/
   </tr>
   <tr style="vertical-align:top; font-size: 10px; text-align: center"> 
     <td>
-      <img src="https://lesliehamachi.github.io/images/Kyle_Liston.png" alt="Kyle Liston" title="Kyle Liston"><br>MS Polymers and Coatings Science (2025)<br><br><b>Current Position:</b><br>
+      <img src="https://lesliehamachi.github.io/images/Kyle_Liston.png" alt="Kyle Liston" title="Kyle Liston"><br>MS Polymers and Coatings Science (2025)<br><br><br>
     </td>
     <td>
       <img src="https://lesliehamachi.github.io/images/Sachi_Ottoes.png" alt="Sachi Ottoes" title="Sachi Ottoes"><br>BS Chemistry, MS Polymers and Coatings Science (expected 2026)<br><br><b>Current Position:</b><br>Arlon Graphics
     </td>
     <td>
-      <img src="https://lesliehamachi.github.io/images/Han_Diep.png" alt="Han Diep" title="Han Diep"><br>BS Materials Engineering, MS Polymers and Coatings Science (expected 2026)<br><br><b>Current Position:</b><br>
+      <img src="https://lesliehamachi.github.io/images/Han_Diep.png" alt="Han Diep" title="Han Diep"><br>BS Materials Engineering, MS Polymers and Coatings Science (expected 2026)<br><br><br>
     </td>
     <td>
     </td>    
