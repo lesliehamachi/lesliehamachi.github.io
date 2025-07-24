@@ -13,6 +13,15 @@ permalink: /publications/
   </tr>
  <tr > 
     <td style="padding: 10px">
+      <img src="https://lesliehamachi.github.io/images/2025_TrendsChem.png" alt="Table of Contents Graphic for A Surface-Level Introduction to Covalent Organic Framework Colloids" title="TOC Graphic for A Surface-Level Introduction to Covalent Organic Framework Colloids" style="vertical-align:top; font-size: 12px; text-align: center"/>
+    </td>
+    <td style="padding: 30px">
+     <li><p style="font-size: 16px; font-weight: bold"><a href="https://www.sciencedirect.com/science/article/abs/pii/S2589597425001364">A Surface-Level Introduction to Covalent Organic Framework Colloids</a></p></li>
+     <p style="font-size: 14px;">Valencia, S. L.; Johnson, J. P.; Arroyo, J. C.; Hamachi, L. S* <em>Trends Chem.</em> <b>2025</b>, <em>In Press</em>.</p>
+    </td>
+  </tr>
+  <tr > 
+    <td style="padding: 10px">
       <img src="https://lesliehamachi.github.io/images/2025_FrontMater_12_1576384.png" alt="Table of Contents Graphic for Editorial: Recent Advances in Sustainable Polymer Materials" title="TOC Graphic for Editorial: Recent Advances in Sustainable Polymer Materials" style="vertical-align:top; font-size: 12px; text-align: center"/>
     </td>
     <td style="padding: 30px">
