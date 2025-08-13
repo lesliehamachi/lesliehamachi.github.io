@@ -17,7 +17,7 @@ permalink: /publications/
     </td>
     <td style="padding: 30px">
      <li><p style="font-size: 16px; font-weight: bold"><a href="https://www.sciencedirect.com/science/article/abs/pii/S2589597425001364">A Surface-Level Introduction to Covalent Organic Framework Colloids</a></p></li>
-     <p style="font-size: 14px;">Valencia, S. L.; Johnson, J. P.; Arroyo, J. C.; Hamachi, L. S* <em>Trends Chem.</em> <b>2025</b>, <em>7</em>(8), 421-428.</p>
+     <p style="font-size: 14px;"><u>Valencia, S. L.</u>; <u>Johnson, J. P.</u>; <u>Arroyo, J. C.</u>; Hamachi, L. S* <em>Trends Chem.</em> <b>2025</b>, <em>7</em>(8), 421-428.</p>
     </td>
   </tr>
   <tr > 
