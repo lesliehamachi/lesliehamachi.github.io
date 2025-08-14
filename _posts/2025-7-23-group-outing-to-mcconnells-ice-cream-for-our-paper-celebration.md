@@ -5,7 +5,7 @@ tags: news social
 ---
 
 <figure>
-<img src="https://lesliehamachi.github.io/post_content/2023_05_26-McConnells-Ice-Cream.jpg" alt="group photo at an ice cream parlor" title="Group Photo at McConnells Ice Cream">
+<img src="https://lesliehamachi.github.io/post_content/2025_07_23-McConnells-Ice-Cream.jpg" alt="group photo at an ice cream parlor" title="Group Photo at McConnells Ice Cream">
 <figcaption><em>The Hamachi Group at McConnell's Ice Cream:
 Top (L-R): Winston Untung, Elijah Hannaford, Jackson Arroyo, Martin Nelson; 
   Middle (L-R): Jeffrey Johnson, Sofia Valencia, Ava Durbin;
