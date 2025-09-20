@@ -59,7 +59,7 @@ permalink: /people/
       <img src="https://lesliehamachi.github.io/images/Jeffrey_Johnson.png" alt="Jeffrey Johnson" title="Jeffrey Johnson"><br>BS Biochemistry (expected 2026)
     </td>
     <td>
-      <img src="https://lesliehamachi.github.io/images/Jackson_Arroyo.png" alt="Jackson Arroyo" title="Jackson Arroyo"><br>BS Biochemistry (expected 2026)
+      <img src="https://lesliehamachi.github.io/images/Jackson_Arroyo.png" alt="Jackson Arroyo" title="Jackson Arroyo"><br>BS Chemistry (expected 2026)
     </td>    
     <td>
       <img src="https://lesliehamachi.github.io/images/Sofia_Valencia.png" alt="Sofia Valencia" title="Sofia Valencia"><br>BS Biochemistry (expected 2026)
