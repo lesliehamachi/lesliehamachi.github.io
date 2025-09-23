@@ -387,7 +387,7 @@ permalink: /people/
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">Kyle Liston</th>
     <th width="12.5%">Sachi Ottoes</th>
-    <th width="12.5%">Han Diep</th>
+    <th width="12.5%"></th>
     <th width="12.5%"></th>
     <th width="12.5%"></th>
     <th width="12.5%"></th>
@@ -400,7 +400,6 @@ permalink: /people/
       <img src="https://lesliehamachi.github.io/images/Sachi_Ottoes.png" alt="Sachi Ottoes" title="Sachi Ottoes"><br>BS Chemistry, MS Polymers and Coatings Science (expected 2026)<br><br><b>Current Position:</b><br>Arlon Graphics
     </td>
     <td>
-      <img src="https://lesliehamachi.github.io/images/Han_Diep.png" alt="Han Diep" title="Han Diep"><br>BS Materials Engineering, MS Polymers and Coatings Science (expected 2026)<br><br><br>
     </td>
     <td>
     </td>    
