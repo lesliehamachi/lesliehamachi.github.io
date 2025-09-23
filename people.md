@@ -81,7 +81,7 @@ permalink: /people/
     <th width="12.5%">Olive Rosplock</th>
     <th width="12.5%">Erin Wang</th>
     <th width="12.5%">Cole Nakamoto</th>
-    <th width="12.5%">Angelina Tang</th> 
+    <th width="12.5%">Makisig Velasquez</th> 
     <th width="12.5%">Ava Durbin</th> 
     <th width="12.5%">Maelyn Peters</th>
   </tr>
@@ -96,7 +96,7 @@ permalink: /people/
        <img src="https://lesliehamachi.github.io/images/Cole_Nakamoto.png" alt="Cole Nakamoto" title="Cole Nakamoto"><br>BS Materials Engineering (expected 2026)
     </td>
     <td>
-       <img src="https://lesliehamachi.github.io/images/Angelina_Tang.png" alt="Angelina Tang" title="Angelina Tang"><br>BS Chemistry (expected 2025)
+       <img src="https://lesliehamachi.github.io/images/Makisig_Velasquez.png" alt="Makisig Velasquez" title="Makisig Velasquez"><br>BS Chemistry (expected 2026)
     </td>
     <td>
        <img src="https://lesliehamachi.github.io/images/Ava_Durbin.png" alt="Ava Durbin" title="Ava Durbin"><br>BS Chemistry (expected 2027)
@@ -109,17 +109,14 @@ permalink: /people/
 <br>
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
-    <th width="12.5%">Makisig Velasquez</th>
-    <th width="12.5%">Elian Zurita</th>
+   <th width="12.5%">Elian Zurita</th>
     <th width="12.5%">Finn Heidman Pinkner</th>
+    <th width="12.5%"></th>
     <th width="12.5%"></th>
     <th width="12.5%"></th>
     <th width="12.5%"></th>
   </tr>
   <tr style="vertical-align:top; font-size: 12px; text-align: center"> 
-    <td>
-       <img src="https://lesliehamachi.github.io/images/Makisig_Velasquez.png" alt="Makisig Velasquez" title="Makisig Velasquez"><br>BS Chemistry (expected 2026)
-    </td>
     <td>
        <img src="https://lesliehamachi.github.io/images/Elian_Zurita.png" alt="Elian Zurita" title="Elian Zurita"><br>BS Environmental Engineering (expected 2026)
     </td>
@@ -132,9 +129,38 @@ permalink: /people/
     </td>
     <td>
     </td>
+    <td>
+    </td>
   </tr>
 </table>
-<br>
+<hr /> <!-- This adds a line break between sections -->
+
+<strong>Masters Students</strong>
+<table>
+  <tr style="font-size: 14px; text-align: center; font-weight: bold">
+    <th width="12.5%">Han Diep</th>
+    <th width="12.5%"></th>
+    <th width="12.5%"></th>
+    <th width="12.5%"></th>
+    <th width="12.5%"></th>
+    <th width="12.5%"></th>
+  </tr>
+  <tr style="vertical-align:top; font-size: 10px; text-align: center"> 
+    <td>
+      <img src="https://lesliehamachi.github.io/images/Han_Diep.png" alt="Han Diep" title="Han Diep"><br>BS Materials Engineering, MS Polymers and Coatings Science (expected 2026)<br><br><br>
+    </td>
+    <td>
+    </td>    
+    <td>
+    </td>
+    <td>
+    </td>    
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+</table>
 </div>
 
 <!-- Former Members Section -->
@@ -270,7 +296,7 @@ permalink: /people/
     <th width="12.5%">Zoe Jackson Delos Angeles</th>
     <th width="12.5%">Hannah Negri</th>
     <th width="12.5%">Andrew Cherry</th>
-    <th width="12.5%"></th>
+    <th width="12.5%">Angelina Tang</th>
     <th width="12.5%"></th>
   </tr>
   <tr style="vertical-align:top; font-size: 10px; text-align: center"> 
@@ -287,6 +313,7 @@ permalink: /people/
       <img src="https://lesliehamachi.github.io/images/Andrew_Cherry.png" alt="Andrew Cherry" title="Andrew Cherry"><br>BS Chemistry (expected 2027)
     </td>
     <td>
+     <img src="https://lesliehamachi.github.io/images/Angelina_Tang.png" alt="Angelina Tang" title="Angelina Tang"><br>BS Chemistry (expected 2025)
     </td>
     <td>
     </td>
