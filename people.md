@@ -111,7 +111,7 @@ permalink: /people/
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">Makisig Velasquez</th>
     <th width="12.5%">Elian Zurita</th>
-    <th width="12.5%"></th>
+    <th width="12.5%">Finn Heidman Pinkner</th>
     <th width="12.5%"></th>
     <th width="12.5%"></th>
     <th width="12.5%"></th>
@@ -124,6 +124,7 @@ permalink: /people/
        <img src="https://lesliehamachi.github.io/images/Elian_Zurita.png" alt="Elian Zurita" title="Elian Zurita"><br>BS Environmental Engineering (expected 2026)
     </td>
     <td>
+       <img src="https://lesliehamachi.github.io/images/Finn_Heidman_Pinkner.png" alt="Finn Heidman Pinkner" title="Finn Heidman Pinkner"><br>BS Materials Engineering (expected 2028)
     </td>
     <td>
     </td>
