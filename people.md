@@ -50,7 +50,7 @@ permalink: /people/
     <th width="12.5%">Jeffrey Johnson</th>
     <th width="12.5%">Jackson Arroyo</th> 
     <th width="12.5%">Sofia Valencia</th>
-    <th width="12.5%">Nix Tinkle</th> 
+    <th width="12.5%">Nix Liou</th> 
     <th width="12.5%">Martin Nelson</th>
     <th width="12.5%">Winston Untung</th>
   </tr>
@@ -111,10 +111,10 @@ permalink: /people/
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
    <th width="12.5%">Elian Zurita</th>
     <th width="12.5%">Finn Heidman Pinkner</th>
-    <th width="12.5%"></th>
-    <th width="12.5%"></th>
-    <th width="12.5%"></th>
-    <th width="12.5%"></th>
+    <th width="12.5%">Anya Wheatley</th>
+    <th width="12.5%">Bobby Frazee</th>
+    <th width="12.5%">Piper Fazio</th>
+    <th width="12.5%">April Truong</th>
   </tr>
   <tr style="vertical-align:top; font-size: 12px; text-align: center"> 
     <td>
