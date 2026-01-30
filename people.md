@@ -124,7 +124,7 @@ permalink: /people/
        <img src="https://lesliehamachi.github.io/images/Finn_Heidman_Pinkner.png" alt="Finn Heidman Pinkner" title="Finn Heidman Pinkner"><br>BS Materials Engineering (expected 2028)
     </td>
     <td>
-       <img src="https://lesliehamachi.github.io/images/Anya Wheatley.png" alt="Anya Wheatley" title="Anya Wheatley"><br>BS Chemistry (expected 2027)
+       <img src="https://lesliehamachi.github.io/images/Anya_Wheatley.png" alt="Anya Wheatley" title="Anya Wheatley"><br>BS Chemistry (expected 2027)
     </td>
     <td>
        <img src="https://lesliehamachi.github.io/images/Bobby_Frazee.png" alt="Bobby Frazee" title="Bobby Frazee"><br>BS Chemistry (expected 2028)
