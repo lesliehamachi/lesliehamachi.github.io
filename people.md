@@ -65,7 +65,7 @@ permalink: /people/
       <img src="https://lesliehamachi.github.io/images/Sofia_Valencia.png" alt="Sofia Valencia" title="Sofia Valencia"><br>BS Biochemistry (expected 2026)
     </td>
     <td>
-      <img src="https://lesliehamachi.github.io/images/Nix_Tinkle.png" alt="Nix Tinkle" title="Nix Tinkle"><br>BS Chemistry (expected 2027)
+      <img src="https://lesliehamachi.github.io/images/Nix_Liou.png" alt="Nix Liou" title="Nix Liou"><br>BS Chemistry (expected 2027)
     </td>
     <td>
       <img src="https://lesliehamachi.github.io/images/Martin_Nelson.png" alt="Martin Nelson" title="Martin Nelson"><br>BS Chemistry (expected 2026)
