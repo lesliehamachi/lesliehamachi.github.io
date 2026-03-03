@@ -11,7 +11,16 @@ permalink: /publications/
     <th width="25%"></th>
     <th width="75%"></th>
   </tr>
- <tr > 
+  <tr > 
+    <td style="padding: 10px">
+      <img src="" alt="Table of Contents Graphic for Probing the External Surface Chemistry of Imine-Based Covalent Organic Frameworks Using Reactive Organic Dyes" title="TOC Graphic for Probing the External Surface Chemistry of Imine-Based Covalent Organic Frameworks Using Reactive Organic Dyes" style="vertical-align:top; font-size: 12px; text-align: center"/>
+    </td>
+    <td style="padding: 30px">
+     <li><p style="font-size: 16px; font-weight: bold"><a href="">Probing the External Surface Chemistry of Imine-Based Covalent Organic Frameworks Using Reactive Organic Dyes</a></p></li>
+     <p style="font-size: 14px;">Pal, S.; Sensharma, D.; <u>Velasquez, M.</u>; <u>Durbin, A.</u>; Hamachi, L.; Cohen, S. M. <em>J. Am. Chem. Soc.</em> <b>2026</b>, <em>In press</em>.</p>
+    </td>
+  </tr>
+  <tr > 
     <td style="padding: 10px">
       <img src="https://lesliehamachi.github.io/images/2025_TrendsChem.png" alt="Table of Contents Graphic for A Surface-Level Introduction to Covalent Organic Framework Colloids" title="TOC Graphic for A Surface-Level Introduction to Covalent Organic Framework Colloids" style="vertical-align:top; font-size: 12px; text-align: center"/>
     </td>
