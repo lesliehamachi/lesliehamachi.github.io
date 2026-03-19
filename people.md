@@ -137,6 +137,33 @@ permalink: /people/
     </td>
   </tr>
 </table>
+<br>
+<table>
+  <tr style="font-size: 14px; text-align: center; font-weight: bold">
+   <th width="12.5%">Elissandra Favela</th>
+    <th width="12.5%">Addy Guy</th>
+    <th width="12.5%"></th>
+    <th width="12.5%"></th>
+    <th width="12.5%"></th>
+    <th width="12.5%"></th>
+  </tr>
+  <tr style="vertical-align:top; font-size: 12px; text-align: center"> 
+    <td>
+       <img src="https://lesliehamachi.github.io/images/Elissandra_Favela.png" alt="Elissandra Favela" title="Elissandra Favela"><br>BS Chemistry (expected 2029)
+    </td>
+    <td>
+       <img src="https://lesliehamachi.github.io/images/Addy_Guy.png" alt="Addy Guy" title="Addy Guy"><br>BS Biochemistry (expected 2029)
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+</table>
 <hr /> <!-- This adds a line break between sections -->
 
 <strong>Masters Students</strong>
