@@ -13,9 +13,10 @@ permalink: /publications/
   </tr>
   <tr > 
     <td style="padding: 10px">
+      <img src="https://lesliehamachi.github.io/images/2026_JACS.png" alt="Table of Contents Graphic for Probing the External Surface Chemistry of Imine-Based Covalent Organic Frameworks Using Reactive Organic Dyes" title="TOC Graphic for Probing the External Surface Chemistry of Imine-Based Covalent Organic Frameworks Using Reactive Organic Dyes" style="vertical-align:top; font-size: 12px; text-align: center"/>
     </td>
     <td style="padding: 30px">
-     <li><p style="font-size: 16px; font-weight: bold"><a href="">Probing the External Surface Chemistry of Imine-Based Covalent Organic Frameworks Using Reactive Organic Dyes</a></p></li>
+     <li><p style="font-size: 16px; font-weight: bold"><a href="https://pubs.acs.org/doi/full/10.1021/jacs.5c22900">Probing the External Surface Chemistry of Imine-Based Covalent Organic Frameworks Using Reactive Organic Dyes</a></p></li>
      <p style="font-size: 14px;">Pal, S.; Sensharma, D.; <u>Velasquez, M.</u>; <u>Durbin, A.</u>; Hamachi, L.; Cohen, S. M.* <em>J. Am. Chem. Soc.</em> <b>2026</b>, <em>In press</em>.</p>
     </td>
   </tr>
