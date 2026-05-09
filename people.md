@@ -142,8 +142,8 @@ permalink: /people/
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
    <th width="12.5%">Elissandra Favela</th>
     <th width="12.5%">Addy Guy</th>
-    <th width="12.5%"></th>
-    <th width="12.5%"></th>
+    <th width="12.5%">Elijah Hannaford</th>
+    <th width="12.5%">Ciara Tadeo</th>
     <th width="12.5%"></th>
     <th width="12.5%"></th>
   </tr>
@@ -155,8 +155,10 @@ permalink: /people/
        <img src="https://lesliehamachi.github.io/images/Addy_Guy.png" alt="Addy Guy" title="Addy Guy"><br>BS Biochemistry (expected 2029)
     </td>
     <td>
+        <img src="https://lesliehamachi.github.io/images/Elijah_Hannaford.png" alt="Elijah Hannaford" title="Elijah Hannaford"><br>BS Biochemistry (expected 2027)
     </td>
     <td>
+        <img src="https://lesliehamachi.github.io/images/Ciara_Tadeo.png" alt="Ciara Tadeo" title="Ciara Tadeo"><br>BS Materials Engineering (expected 2029)
     </td>
     <td>
     </td>
@@ -170,7 +172,7 @@ permalink: /people/
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">Han Diep</th>
-    <th width="12.5%"></th>
+    <th width="12.5%">Xiaolu Liu</th>
     <th width="12.5%"></th>
     <th width="12.5%"></th>
     <th width="12.5%"></th>
@@ -181,6 +183,7 @@ permalink: /people/
       <img src="https://lesliehamachi.github.io/images/Han_Diep.png" alt="Han Diep" title="Han Diep"><br>BS Materials Engineering, MS Polymers and Coatings Science (expected 2026)<br><br><br>
     </td>
     <td>
+      <img src="https://lesliehamachi.github.io/images/Xiaolu_Liu.png" alt="Xiaolu Liu" title="Xiaolu Liu"><br>MS Polymers and Coatings Science (expected 2027)<br><br><br>
     </td>    
     <td>
     </td>
