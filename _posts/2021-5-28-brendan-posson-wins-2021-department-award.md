@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brendan Posson wins Outstanding Polymers and Coatings Student Award
+title: Brendan Posson wins 2021 Outstanding Polymers and Coatings Student Award
 tags: news
 ---
 
