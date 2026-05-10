@@ -17,7 +17,7 @@ permalink: /publications/
     </td>
     <td style="padding: 30px">
      <li><p style="font-size: 16px; font-weight: bold"><a href="https://pubs.acs.org/doi/full/10.1021/jacs.5c22900">Probing the External Surface Chemistry of Imine-Based Covalent Organic Frameworks Using Reactive Organic Dyes</a></p></li>
-     <p style="font-size: 14px;">Pal, S.; Sensharma, D.; <u>Velasquez, M.</u>; <u>Durbin, A.</u>; Hamachi, L.; Cohen, S. M.* <em>J. Am. Chem. Soc.</em> <b>2026</b>, <em>In press</em>.</p>
+     <p style="font-size: 14px;">Pal, S.; Sensharma, D.; <u>Velasquez, M.</u>; <u>Durbin, A.</u>; Hamachi, L.; Cohen, S. M.* <em>J. Am. Chem. Soc.</em> <b>2026</b>, <em>148</em>(12), 13140-13148.</p>
     </td>
   </tr>
   <tr > 
