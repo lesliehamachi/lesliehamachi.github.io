@@ -9,7 +9,7 @@ tags: news
   <figcaption><em>Cal Poly "Learn by Doing" Logo</em></figcaption>
 </figure>  
 <br>
-This year’s summer undergraduate researchers are excited for research: Jeffrey Johnson (Biochemistry), Jackson Arroyo (Chemistry), Sofia Valencia (Biochemistry), Hannah Negri (Chemistry), Nix Tinkle (Chemistry), Martin Nelson (Chemistry), Winston Untung (Materials Enginering), Ava Durbin (Chemistry), and Makisig Velasquez (Chemistry).
+This year’s summer undergraduate researchers are excited for research: Jeffrey Johnson (Biochemistry), Jackson Arroyo (Chemistry), Sofia Valencia (Biochemistry), Hannah Negri (Chemistry), Nix Liou (Chemistry), Martin Nelson (Chemistry), Winston Untung (Materials Enginering), Ava Durbin (Chemistry), and Makisig Velasquez (Chemistry).
 <br><br>
 Welcome to Makisig Velasquez who is new to the lab this summer. We are so glad you are joining us for summer research!
 <br><br>
