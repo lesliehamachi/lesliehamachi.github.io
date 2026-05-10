@@ -9,7 +9,7 @@ tags: news
   <figcaption><em>Cal Poly "Learn by Doing" Logo</em></figcaption>
 </figure>  
 <br>
-This year’s summer undergraduate researchers are excited to learn some chemistry, materials engineering, and perform chemical education research: Sierra Sanchez (Chemistry), Jane Dormady (Liberal Studies), Anna Delmas (Liberal Studies), Kyle Liston (Polymers and Coatings), Sachi Ottoes (Chemistry), Andrew Cherry (Chemistry), Erin Wang (Materials Engineering), Jeffrey Johnson (Biochemistry), Jackson Arroyo (Chemistry), Sofia Valencia (Biochemistry), Hannah Negri (Chemistry), Ava Rider (Civil Engineering), and Nix Tinkle (Chemistry).
+This year’s summer undergraduate researchers are excited to learn some chemistry, materials engineering, and perform chemical education research: Sierra Sanchez (Chemistry), Jane Dormady (Liberal Studies), Anna Delmas (Liberal Studies), Kyle Liston (Polymers and Coatings), Sachi Ottoes (Chemistry), Andrew Cherry (Chemistry), Erin Wang (Materials Engineering), Jeffrey Johnson (Biochemistry), Jackson Arroyo (Chemistry), Sofia Valencia (Biochemistry), Hannah Negri (Chemistry), Ava Rider (Civil Engineering), and Nix Liou (Chemistry).
 <br><br>
 Welcome to Jane Dormady, Anna Delmas, and Ava Rider who are new to the lab. We are so glad you are joining us for summer research!
 <br><br>
