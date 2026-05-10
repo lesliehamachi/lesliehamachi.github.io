@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Manuel Huizar, Amanda Tsai, and André Lagron win Chemistry and Biochemistry Department Awards
+title: Manuel Huizar, Amanda Tsai, and André Lagron win 2022 Chemistry and Biochemistry Department Awards
 tags: news
 ---
 
