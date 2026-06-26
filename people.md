@@ -192,13 +192,13 @@ permalink: /people/
       <img src="https://lesliehamachi.github.io/images/Donna_Tran.png" alt="Donna Tran" title="Donna Tran"><br>BS Biochemistry (2023)
     </td>
     <td>
-      <img src="https://lesliehamachi.github.io/images/Chanh_Lam.jpg" alt="Chanh Lam" title="Chanh Lam"><br>BS Mechanical Engineering (expected 2025)
+      <img src="https://lesliehamachi.github.io/images/Chanh_Lam.jpg" alt="Chanh Lam" title="Chanh Lam"><br>BS Mechanical Engineering (2024)
     </td>
     <td>
       <img src="https://lesliehamachi.github.io/images/Brandon_Ngo.png" alt="Brandon Ngo" title="Brandon Ngo"><br>BS Chemistry (2023)
     </td>
     <td>
-      <img src="https://lesliehamachi.github.io/images/Alyssa_Chew.png" alt="Alyssa Chew" title="Alyssa Chew"><br>BS Biochemistry (expected 2025)
+      <img src="https://lesliehamachi.github.io/images/Alyssa_Chew.png" alt="Alyssa Chew" title="Alyssa Chew"><br>BS Biochemistry (2026)
     </td>
   </tr>
 </table>
