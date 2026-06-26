@@ -47,85 +47,45 @@ permalink: /people/
 
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
-    <th width="12.5%">Jeffrey Johnson</th>
-    <th width="12.5%">Jackson Arroyo</th> 
-    <th width="12.5%">Sofia Valencia</th>
     <th width="12.5%">Nix Liou</th> 
-    <th width="12.5%">Martin Nelson</th>
-    <th width="12.5%">Winston Untung</th>
+    <th width="12.5%">Ava Durbin</th> 
+    <th width="12.5%">Anya Wheatley</th>
+    <th width="12.5%">Elijah Hannaford</th>
+    <th width="12.5%">Maelyn Peters</th>
+    <th width="12.5%">Finn Heidman Pinkner</th>
   </tr>
   <tr style="vertical-align:top; font-size: 12px; text-align: center"> 
-    <td>
-      <img src="https://lesliehamachi.github.io/images/Jeffrey_Johnson.png" alt="Jeffrey Johnson" title="Jeffrey Johnson"><br>BS Biochemistry (expected 2026)
-    </td>
-    <td>
-      <img src="https://lesliehamachi.github.io/images/Jackson_Arroyo.png" alt="Jackson Arroyo" title="Jackson Arroyo"><br>BS Chemistry (expected 2026)
-    </td>    
-    <td>
-      <img src="https://lesliehamachi.github.io/images/Sofia_Valencia.png" alt="Sofia Valencia" title="Sofia Valencia"><br>BS Biochemistry (expected 2026)
-    </td>
     <td>
       <img src="https://lesliehamachi.github.io/images/Nix_Liou.png" alt="Nix Liou" title="Nix Liou"><br>BS Chemistry (expected 2027)
-    </td>
-    <td>
-      <img src="https://lesliehamachi.github.io/images/Martin_Nelson.png" alt="Martin Nelson" title="Martin Nelson"><br>BS Chemistry (expected 2026)
-    </td>
-    <td>
-      <img src="https://lesliehamachi.github.io/images/Winston_Untung.png" alt="Winston Untung" title="Winston Untung"><br>BS Materials Engineering (expected 2026)
-    </td>
-  </tr>
-</table>
-<br>
-<table>
-  <tr style="font-size: 14px; text-align: center; font-weight: bold">
-    <th width="12.5%">Olive Rosplock</th>
-    <th width="12.5%">Erin Wang</th>
-    <th width="12.5%">Cole Nakamoto</th>
-    <th width="12.5%">Makisig Velasquez</th> 
-    <th width="12.5%">Ava Durbin</th> 
-    <th width="12.5%">Maelyn Peters</th>
-  </tr>
-  <tr style="vertical-align:top; font-size: 12px; text-align: center"> 
-    <td>
-      <img src="https://lesliehamachi.github.io/images/Olive_Rosplock.png" alt="Olive Rosplock" title="Olive Rosplock"><br>BS Biochemistry (expected 2026)
-    </td>
-    <td>
-      <img src="https://lesliehamachi.github.io/images/Erin_Wang.png" alt="Erin Wang" title="Erin Wang"><br>BS Industrial Technology and Packaging (expected 2027)
-    </td>
-    <td>
-       <img src="https://lesliehamachi.github.io/images/Cole_Nakamoto.png" alt="Cole Nakamoto" title="Cole Nakamoto"><br>BS Materials Engineering (expected 2026)
-    </td>
-    <td>
-       <img src="https://lesliehamachi.github.io/images/Makisig_Velasquez.png" alt="Makisig Velasquez" title="Makisig Velasquez"><br>BS Chemistry (expected 2026)
     </td>
     <td>
        <img src="https://lesliehamachi.github.io/images/Ava_Durbin.png" alt="Ava Durbin" title="Ava Durbin"><br>BS Chemistry (expected 2027)
     </td>
     <td>
+       <img src="https://lesliehamachi.github.io/images/Anya_Wheatley.png" alt="Anya Wheatley" title="Anya Wheatley"><br>BS Chemistry (expected 2027)
+    </td>
+    <td>
+        <img src="https://lesliehamachi.github.io/images/Elijah_Hannaford.png" alt="Elijah Hannaford" title="Elijah Hannaford"><br>BS Biochemistry (expected 2027)
+    </td>
+    <td>
        <img src="https://lesliehamachi.github.io/images/Maelyn_Peters.png" alt="Maelyn Peters" title="Maelyn Peters"><br>BS Materials Engineering (expected 2028)
+    </td> 
+    <td>
+       <img src="https://lesliehamachi.github.io/images/Finn_Heidman_Pinkner.png" alt="Finn Heidman Pinkner" title="Finn Heidman Pinkner"><br>BS Materials Engineering (expected 2028)
     </td>
   </tr>
 </table>
 <br>
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
-   <th width="12.5%">Elian Zurita</th>
-    <th width="12.5%">Finn Heidman Pinkner</th>
-    <th width="12.5%">Anya Wheatley</th>
     <th width="12.5%">Bobby Frazee</th>
     <th width="12.5%">Piper Fazio</th>
     <th width="12.5%">April Truong</th>
+    <th width="12.5%">Elissandra Favela</th>
+    <th width="12.5%">Addy Guy</th>
+    <th width="12.5%">Ciara Tadeo</th>
   </tr>
   <tr style="vertical-align:top; font-size: 12px; text-align: center"> 
-    <td>
-       <img src="https://lesliehamachi.github.io/images/Elian_Zurita.png" alt="Elian Zurita" title="Elian Zurita"><br>BS Environmental Engineering (expected 2026)
-    </td>
-    <td>
-       <img src="https://lesliehamachi.github.io/images/Finn_Heidman_Pinkner.png" alt="Finn Heidman Pinkner" title="Finn Heidman Pinkner"><br>BS Materials Engineering (expected 2028)
-    </td>
-    <td>
-       <img src="https://lesliehamachi.github.io/images/Anya_Wheatley.png" alt="Anya Wheatley" title="Anya Wheatley"><br>BS Chemistry (expected 2027)
-    </td>
     <td>
        <img src="https://lesliehamachi.github.io/images/Bobby_Frazee.png" alt="Bobby Frazee" title="Bobby Frazee"><br>BS Chemistry (expected 2028)
     </td>
@@ -135,19 +95,6 @@ permalink: /people/
     <td>
        <img src="https://lesliehamachi.github.io/images/April_Truong.png" alt="April Truong" title="April Truong"><br>BS Materials Engineering (expected 2029)
     </td>
-  </tr>
-</table>
-<br>
-<table>
-  <tr style="font-size: 14px; text-align: center; font-weight: bold">
-   <th width="12.5%">Elissandra Favela</th>
-    <th width="12.5%">Addy Guy</th>
-    <th width="12.5%">Elijah Hannaford</th>
-    <th width="12.5%">Ciara Tadeo</th>
-    <th width="12.5%"></th>
-    <th width="12.5%"></th>
-  </tr>
-  <tr style="vertical-align:top; font-size: 12px; text-align: center"> 
     <td>
        <img src="https://lesliehamachi.github.io/images/Elissandra_Favela.png" alt="Elissandra Favela" title="Elissandra Favela"><br>BS Chemistry (expected 2029)
     </td>
@@ -155,24 +102,18 @@ permalink: /people/
        <img src="https://lesliehamachi.github.io/images/Addy_Guy.png" alt="Addy Guy" title="Addy Guy"><br>BS Biochemistry (expected 2029)
     </td>
     <td>
-        <img src="https://lesliehamachi.github.io/images/Elijah_Hannaford.png" alt="Elijah Hannaford" title="Elijah Hannaford"><br>BS Biochemistry (expected 2027)
-    </td>
-    <td>
         <img src="https://lesliehamachi.github.io/images/Ciara_Tadeo.png" alt="Ciara Tadeo" title="Ciara Tadeo"><br>BS Materials Engineering (expected 2029)
-    </td>
-    <td>
-    </td>
-    <td>
     </td>
   </tr>
 </table>
+
 <hr /> <!-- This adds a line break between sections -->
 
 <strong>Masters Students</strong>
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
-    <th width="12.5%">Han Diep</th>
     <th width="12.5%">Xiaolu Liu</th>
+    <th width="12.5%">Jeffrey Johnson</th>
     <th width="12.5%"></th>
     <th width="12.5%"></th>
     <th width="12.5%"></th>
@@ -180,11 +121,11 @@ permalink: /people/
   </tr>
   <tr style="vertical-align:top; font-size: 10px; text-align: center"> 
     <td>
-      <img src="https://lesliehamachi.github.io/images/Han_Diep.png" alt="Han Diep" title="Han Diep"><br>BS Materials Engineering, MS Polymers and Coatings Science (expected 2026)<br><br><br>
-    </td>
-    <td>
       <img src="https://lesliehamachi.github.io/images/Xiaolu_Liu.png" alt="Xiaolu Liu" title="Xiaolu Liu"><br>MS Polymers and Coatings Science (expected 2027)<br><br><br>
     </td>    
+    <td>
+      <img src="https://lesliehamachi.github.io/images/Jeffrey_Johnson.png" alt="Jeffrey Johnson" title="Jeffrey Johnson"><br>BS Biochemistry; MS Polymers and Coatings Science (expected 2027)
+    </td>
     <td>
     </td>
     <td>
@@ -288,7 +229,7 @@ permalink: /people/
       <img src="https://lesliehamachi.github.io/images/Nathan_Wong.png" alt="Nathan Wong" title="Nathan Wong"><br>BS Materials Engineering (2024)<br><br><b>Current Position:</b><br>MS Student, San Jose State
     </td>
     <td>
-      <img src="https://lesliehamachi.github.io/images/Kyla_Carlson.png" alt="Kyla Carlson" title="Kyla Carlson"><br>BS Materials Engineering (2025)
+      <img src="https://lesliehamachi.github.io/images/Kyla_Carlson.png" alt="Kyla Carlson" title="Kyla Carlson"><br>BS Materials Engineering (2025)<br><br><b>Current Position:</b><br>Blue Origin
     </td>
   </tr>
 </table>
@@ -307,7 +248,7 @@ permalink: /people/
       <img src="https://lesliehamachi.github.io/images/Hayden_Ankrum.png" alt="Hayden Ankrum" title="Hayden Ankrum"><br>BS Biochemistry (2025)<br><br><b>Current Position:</b><br>Hydrite
     </td>
     <td>
-      <img src="https://lesliehamachi.github.io/images/Harkeerith_Vij.png" alt="Harkeerith Vij" title="Harkeerith Vij"><br>BS Materials Engineering (expected 2025)
+      <img src="https://lesliehamachi.github.io/images/Harkeerith_Vij.png" alt="Harkeerith Vij" title="Harkeerith Vij"><br>BS Materials Engineering (2025)
     </td>
     <td>
       <img src="https://lesliehamachi.github.io/images/Jane_Dormady.png" alt="Jane Dormady" title="Jane Dormady"><br>BS Liberal Studies, Minor in Child Development (2025)
@@ -331,7 +272,7 @@ permalink: /people/
     <th width="12.5%">Hannah Negri</th>
     <th width="12.5%">Andrew Cherry</th>
     <th width="12.5%">Angelina Tang</th>
-    <th width="12.5%"></th>
+    <th width="12.5%">Olive Rosplock</th>
   </tr>
   <tr style="vertical-align:top; font-size: 10px; text-align: center"> 
     <td>
@@ -344,15 +285,73 @@ permalink: /people/
       <img src="https://lesliehamachi.github.io/images/Hannah_Negri.jpg" alt="Hannah Negri" title="Hannah Negri"><br>BS Chemistry (2025)<br><br><b>Current Position:</b><br>PhD Student, University of Oregon
     </td>
     <td>
-      <img src="https://lesliehamachi.github.io/images/Andrew_Cherry.png" alt="Andrew Cherry" title="Andrew Cherry"><br>BS Chemistry (expected 2027)
+      <img src="https://lesliehamachi.github.io/images/Andrew_Cherry.png" alt="Andrew Cherry" title="Andrew Cherry"><br>BS Chemistry (expected 2027)<br><br><b>Current Position:</b><br>Undergraduate Student, Rice University
     </td>
     <td>
-     <img src="https://lesliehamachi.github.io/images/Angelina_Tang.png" alt="Angelina Tang" title="Angelina Tang"><br>BS Chemistry (expected 2025)
+     <img src="https://lesliehamachi.github.io/images/Angelina_Tang.png" alt="Angelina Tang" title="Angelina Tang"><br>BS Chemistry (2025)
     </td>
+    <td>
+      <img src="https://lesliehamachi.github.io/images/Olive_Rosplock.png" alt="Olive Rosplock" title="Olive Rosplock"><br>BS Biochemistry (2026)<br><br><b>Current Position:</b><br>City of San Luis Obispo Wastewater Lab
+    </td>
+  </tr>
+</table>
+<br>
+<table>
+  <tr style="font-size: 14px; text-align: center; font-weight: bold">
+    <th width="12.5%">Sofia Valencia</th>
+    <th width="12.5%">Martin Nelson</th>
+    <th width="12.5%">Makisig Velasquez</th>
+    <th width="12.5%">Winston Untung</th>
+    <th width="12.5%">Cole Nakamoto</th>
+    <th width="12.5%">Elian Zurita</th>
+  </tr>
+  <tr style="vertical-align:top; font-size: 10px; text-align: center"> 
+    <td>
+      <img src="https://lesliehamachi.github.io/images/Sofia_Valencia.png" alt="Sofia Valencia" title="Sofia Valencia"><br>BS Biochemistry (2026)<br><br><b>Current Position:</b><br>PhD Student, University of Nevada, Reno
+    </td>
+    <td>
+      <img src="https://lesliehamachi.github.io/images/Martin_Nelson.png" alt="Martin Nelson" title="Martin Nelson"><br>BS Chemistry (2026)<br><br><b>Current Position:</b><br>PhD Student, University of Florida
+    </td>
+    <td>
+       <img src="https://lesliehamachi.github.io/images/Makisig_Velasquez.png" alt="Makisig Velasquez" title="Makisig Velasquez"><br>BS Chemistry (2026)<br><br><b>Current Position:</b><br>SULI Intern, Argonne National Laboratory
+    </td>
+    <td>
+      <img src="https://lesliehamachi.github.io/images/Winston_Untung.png" alt="Winston Untung" title="Winston Untung"><br>BS Materials Engineering (2026)
+    </td>
+    <td>
+       <img src="https://lesliehamachi.github.io/images/Cole_Nakamoto.png" alt="Cole Nakamoto" title="Cole Nakamoto"><br>BS Materials Engineering (2026)
+    </td>
+    <td>
+       <img src="https://lesliehamachi.github.io/images/Elian_Zurita.png" alt="Elian Zurita" title="Elian Zurita"><br>BS Environmental Engineering (2026)
+    </td>
+  </tr>
+</table>
+<br>
+<table>
+  <tr style="font-size: 14px; text-align: center; font-weight: bold">
+    <th width="12.5%">Erin Wang</th>
+    <th width="12.5%"></th>
+    <th width="12.5%"></th>
+    <th width="12.5%"></th>
+    <th width="12.5%"></th>
+    <th width="12.5%"></th>
+  </tr>
+  <tr style="vertical-align:top; font-size: 10px; text-align: center"> 
+    <td>
+      <img src="https://lesliehamachi.github.io/images/Erin_Wang.png" alt="Erin Wang" title="Erin Wang"><br>BS Industrial Technology and Packaging (expected 2027)
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
     <td>
     </td>
   </tr>
 </table>
+
 <hr /> <!-- This adds a line break between sections -->
 
 <strong>Masters Students</strong>
@@ -407,12 +406,13 @@ permalink: /people/
       <img src="https://lesliehamachi.github.io/images/Jachin_Clarke.jpg" alt="Jachin Clarke" title="Jachin Clarke"><br>BS Materials Engineering, MS Polymers and Coatings Science (2024)<br><br><b>Current Position:</b><br>EPS
     </td>
     <td>
-      <img src="https://lesliehamachi.github.io/images/Estela_Osorio.png" alt="Estela Osorio-Garcia" title="Estela Osorio-Garcia"><br>BS Biochemistry, MS Polymers and Coatings Science (expected 2025)<br><br><b>Current Position:</b><br>Dunn Edwards
-    </td>    <td>
-      <img src="https://lesliehamachi.github.io/images/Ypatia_Kondos.png" alt="Ypatia Kondos" title="Ypatia Kondos"><br>MS Polymers and Coatings Science (expected 2026)<br><br><b>Current Position:</b><br>Arlon Graphics
+      <img src="https://lesliehamachi.github.io/images/Estela_Osorio.png" alt="Estela Osorio-Garcia" title="Estela Osorio-Garcia"><br>BS Biochemistry, MS Polymers and Coatings Science (2025)<br><br><b>Current Position:</b><br>Dunn Edwards
+    </td>    
+    <td>
+      <img src="https://lesliehamachi.github.io/images/Ypatia_Kondos.png" alt="Ypatia Kondos" title="Ypatia Kondos"><br>MS Polymers and Coatings Science (2026)<br><br><b>Current Position:</b><br>Meissner Filtration
     </td>
     <td>
-      <img src="https://lesliehamachi.github.io/images/Sierra_Sanchez.png" alt="Sierra Sanchez" title="Sierra Sanchez"><br>BS Chemistry, MS Polymers and Coatings Science (expected 2026)<br><br><b>Current Position:</b><br>Cal Poly
+      <img src="https://lesliehamachi.github.io/images/Sierra_Sanchez.png" alt="Sierra Sanchez" title="Sierra Sanchez"><br>BS Chemistry, MS Polymers and Coatings Science (2026)<br>
     </td>
   </tr>
 </table>
@@ -421,8 +421,8 @@ permalink: /people/
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">Kyle Liston</th>
     <th width="12.5%">Sachi Ottoes</th>
-    <th width="12.5%"></th>
-    <th width="12.5%"></th>
+    <th width="12.5%">Han Diep</th>
+    <th width="12.5%">Jackson Arroyo</th>
     <th width="12.5%"></th>
     <th width="12.5%"></th>
   </tr>
@@ -431,12 +431,14 @@ permalink: /people/
       <img src="https://lesliehamachi.github.io/images/Kyle_Liston.png" alt="Kyle Liston" title="Kyle Liston"><br>MS Polymers and Coatings Science (2025)<br><br><br>
     </td>
     <td>
-      <img src="https://lesliehamachi.github.io/images/Sachi_Ottoes.png" alt="Sachi Ottoes" title="Sachi Ottoes"><br>BS Chemistry, MS Polymers and Coatings Science (expected 2026)<br><br><b>Current Position:</b><br>Arlon Graphics
+      <img src="https://lesliehamachi.github.io/images/Sachi_Ottoes.png" alt="Sachi Ottoes" title="Sachi Ottoes"><br>BS Chemistry, MS Polymers and Coatings Science (2026)<br><br><b>Current Position:</b><br>Arlon Graphics
     </td>
     <td>
+      <img src="https://lesliehamachi.github.io/images/Han_Diep.png" alt="Han Diep" title="Han Diep"><br>BS Materials Engineering, MS Polymers and Coatings Science (2026)<br><br><br>
     </td>
     <td>
-    </td>    
+      <img src="https://lesliehamachi.github.io/images/Jackson_Arroyo.png" alt="Jackson Arroyo" title="Jackson Arroyo"><br>BS Chemistry, MS Polymers and Coatings Science (expected 2027)<br><br><b>Current Position:</b><br>Rustoleum
+    </td>     
     <td>
     </td>
     <td>
