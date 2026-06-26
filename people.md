@@ -351,6 +351,7 @@ permalink: /people/
     </td>
   </tr>
 </table>
+</div>
 
 <hr /> <!-- This adds a line break between sections -->
 
@@ -445,7 +446,6 @@ permalink: /people/
     </td>
   </tr>
 </table>
-</div>
 
 <!-- JavaScript to toggle sections -->
 <script>
