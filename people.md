@@ -296,6 +296,7 @@ permalink: /people/
   </tr>
 </table>
 <br>
+  
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">Sofia Valencia</th>
@@ -327,6 +328,7 @@ permalink: /people/
   </tr>
 </table>
 <br>
+  
 <table>
   <tr style="font-size: 14px; text-align: center; font-weight: bold">
     <th width="12.5%">Erin Wang</th>
@@ -351,7 +353,6 @@ permalink: /people/
     </td>
   </tr>
 </table>
-</div>
 
 <hr /> <!-- This adds a line break between sections -->
 
@@ -446,6 +447,7 @@ permalink: /people/
     </td>
   </tr>
 </table>
+</div>
 
 <!-- JavaScript to toggle sections -->
 <script>
