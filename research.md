@@ -46,7 +46,7 @@ permalink: /research/
       <img src="https://lesliehamachi.github.io/images/logo_small.png" alt="logo" title="logo" style="vertical-align:top; text-align: center"/>
     </td>
     <td style="padding: 10px">
-     <p style="font-size: 16px;">In the Hamachi Group, we are interested in nanoparticle synthesis and characterization. For many applications, it is important to consistently make a narrow size distribution of nanoparticles. We seek to develop new synthetic methods to achieve this. This research involves a mixture of organic chemistry techniques (1H NMR, FTIR), physical chemistry techniques (DLS, Fluorescence Spectroscopy) and materials engineering techniques (PXRD, SEM). You do not need prior experience with these techniques to be able to participate in a research project, although it is suggested that you have taken the first two quarters of gen chem.</p>
+     <p style="font-size: 16px;">In the Hamachi Group, we are interested in nanoparticle synthesis and characterization. For many applications, it is important to consistently make a narrow size distribution of nanoparticles. We seek to develop new synthetic methods to achieve this. This research involves a mixture of organic chemistry techniques (1H NMR, FTIR), physical chemistry techniques (DLS, Fluorescence Spectroscopy) and materials engineering techniques (PXRD, SEM). You do not need prior experience with these techniques to be able to participate in a research project, although it is suggested that you have taken the first semester of general chemistry.</p>
     </td>
   </tr>
 </table>
@@ -82,7 +82,7 @@ permalink: /research/
     </td>
     <td style="padding: 10px">
      <p style="font-size: 16px;">
-In the Hamachi Group, we are interested in developing methods to synthesize colloidal COFs. Here is a recent publication from the group on <a href="https://pubs.rsc.org/en/content/articlelanding/2023/ra/d3ra02202a">synthesizing colloidal COF-300</a>. This research involves a mixture of organic chemistry techniques (1H NMR, GC/MS, FTIR), physical chemistry techniques (DLS, surface area analysis), and materials engineering techniques (PXRD, SEM). You do not need prior experience with these techniques to be able to participate in a research project, although it is suggested that you have taken the first two quarters of gen chem.</p>
+In the Hamachi Group, we are interested in developing methods to synthesize colloidal COFs. Here is a recent publication from the group on <a href="https://pubs.rsc.org/en/content/articlelanding/2023/ra/d3ra02202a">synthesizing colloidal COF-300</a>. This research involves a mixture of organic chemistry techniques (1H NMR, GC/MS, FTIR), physical chemistry techniques (DLS, surface area analysis), and materials engineering techniques (PXRD, SEM). You do not need prior experience with these techniques to be able to participate in a research project, although it is suggested that you have taken the first semester of general chemistry.</p>
     </td>
   </tr>
 </table>
